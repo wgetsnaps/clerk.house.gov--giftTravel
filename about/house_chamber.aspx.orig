@@ -1,0 +1,187 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Office of the Clerk of the U.S. House of Representatives
+         - chamber
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="keywords" content="office of the clerk,clerk,clerk of the house,u.s. house of representatives,congress,member information,committee information, public disclosure, filing, foreign travel reports" /><meta name="description" content="Obtain documents, public disclosure forms, historical data and Member and Committee information for the U.S. House of Representatives" /><meta name="robots" content="index, follow" /><meta name="rating" content="GENERAL" /><meta name="language" content="en" /><meta name="resource-type" content="document" /><meta name="distribution" content="GLOBAL" /><meta name="classification" content="Legislative Federal Government" /><meta name="author" content="Office of the Clerk, U.S. House of Representatives" /><meta name="govType" content="federal" /><meta name="revisit-after" content="15 Days" /><meta name="resource-type" content="document" /><meta name="doc-class" content="Completed" />
+                <link rel="shortcut icon" href="/favicon.ico" /><link rel="stylesheet" type="text/css" media="screen" href="/css/sitewide_styles.css" /><link rel="stylesheet" type="text/css" media="print" href="/css/print.css" /><link rel='stylesheet' type='text/css' media='screen' href='/css/about.css' />
+    <script src="/js/jquery126.js" type="text/JavaScript"></script>
+    
+     <script src="/js/sitewide_functions.js" type="text/JavaScript"></script>
+     <script src="/js/jquery.tablesorter.min.js" type="text/JavaScript"></script>
+
+</head>
+<body>
+    <a href="#contentStart" class="skipToContent">Skip to Content</a>
+    <form name="aspnetForm" method="post" action="./house_chamber.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zzaWA4CXmt5xLI95JekiZ7U1JibexTTRene1UiDdtq6B67jtnBGmkeRvJd8MAPDQQBKpBC+AoWT1/7kHvo+qzkfzLxPhmeSWAcUIs3pAWYb1TCM5HXI71IFBgK9Jg509IKLMALe79U5K35vklpemTpDD7tmzDFb+XnxmaVsMJ+2RKsevVBNrkxWWhiQVV8ex2tVuuzS4pa60JKTvoVGf8kcMuk41cV0Dt6C8v8lkL24Hq3U8FwnTJxIgEhEPG/eqgzxQAf7SXKHvGKU9qhxDCNXwIZwwk5Ev3/lMOUy5cMS7Mmij" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F9B30B3C" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="lEGDWXABPSCUv5hA2W3kbH2aQ1e5tARiw/dAItox9mgZuHmFps3BETxylWwLmRIYnkz0S/ShO1okqyRrwtfadSQ3tyMvGkKIu2G2MSNvPVArsl65g3krNzCuYpiL7/i74RrUa6l+EUKo1Yw66QCizdnzZeI=" />
+    <div id="container">
+        <div id="outer">
+            <div id="main">
+                <div id="header">
+                    <h1>
+                        <a href="/index.aspx" title="Office of the Clerk, United States House of Representatives" class="headerLogo">Office of the Clerk, United States House of Representatives</a>
+                    </h1>
+                    <div id="headerform">
+                        <div id="ctl00_Panel1">
+	
+                            <input name="ctl00$txbSearchBox" type="text" id="ctl00_txbSearchBox" title="Search Clerk.House.Gov" />
+                            <input type="submit" name="ctl00$btnSearchSubmit" value="Search" id="ctl00_btnSearchSubmit" class="mainsearch_btn" />
+                        
+</div>
+                        
+                    </div>
+                    <p class="sessionMarker">
+                        115th
+                        Congress,
+                        1st
+                        Session</p>
+                </div>
+                <div id="navigation">
+                    <ul>
+                        <li class="navActive"><a href="/about/index.aspx" onmouseover="setFeature('clerk');" id="navClerk">About the Office of the Clerk</a></li>
+                        <li class=""><a href="/member_info/index.aspx" onmouseover="setFeature('mem');" id="navMember">Member Information</a></li>
+                        <li class=""><a href="/committee_info/index.aspx" onmouseover="setFeature('comm');" id="navCommittees">Committee Information</a></li>
+                        <li class=""><a href="/legislative/index.aspx" onmouseover="setFeature('legis');" id="navLegis">Legislative Activities</a></li>
+                        <li class=""><a href="/public_disc/index.aspx" onmouseover="setFeature('pd');" id="navPubDisc">Public Disclosure</a></li>
+                        <li><a href="http://library.clerk.house.gov/index.aspx"
+                            onmouseover="setFeature('library');" id="navLibrary">House Library</a></li>
+                    </ul>
+                    <ul id="subnav">
+                
+                        <li class=""><a href="/about/duties.aspx" id="subnavDuties">Duties of the Clerk</a></li>
+                        <li class=""><a href="/about/offices.aspx" id="subnavOffices">Offices &amp; Services</a></li>
+                        <li class=""><a href="/about/history.aspx" id="subnavHistory">History of the Office</a></li>
+                        <li class=""><a href="/about/press/index.aspx" id="subnavPress">Press Releases</a></li>
+						<li class="navActive"><a href="/about/house_chamber.aspx" id="subnavChamber">House Chamber</a></li>
+                 
+                    </ul>
+
+                </div>
+                
+                <a id="contentStart"></a>
+                
+
+    <div id="page_content">
+        <h2>
+            <img src="../images/headers/a_aboutheader-chamber.jpg" alt="About the Office of the Clerk"
+                width="713" height="65" /></h2>
+     
+	   
+ 
+ <div id="intro_content" class="withSpaceTop"> 
+<p>
+<h3>A Message from Paul D. Ryan, Speaker of the House</h3></p>
+
+<p><img src="../images/speaker-ryan.jpg" alt="Paul D. Ryan" vspace="5" border="0" align="left">
+<img src="../images/imagespace.gif" width="18" height="110" align="left" alt="" />
+
+ Since 1857, this hall has served as the <a href="http://history.house.gov/Exhibitions-and-Publications/House-Chamber/Chamber_Introduction/" target="new">Chamber of the U.S. House of Representatives</a>. And as its presiding officer, I have the best view in the House. 
+ I stand at the  <a href="http://history.house.gov/Exhibitions-and-Publications/House-Chamber/Rostrum/" target="new">speaker’s rostrum</a>, where I can see all 435 of the people’s elected representatives. 
+ <p>Below is the <a href="http://history.house.gov/Blog/2014/August/8-4-The_Hopper/" target="new">hopper</a>, where we submit legislation, and the well, where we debate the great questions facing our country. Engraved on the wall behind me is the 
+ nation’s motto, “<a href="http://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-%E2%80%9CIn-God-We-Trust%E2%80%9D-on-national-currency/" target="new">In God We Trust</a>.”</p>
+<p> To my right is a portrait of <a href="http://history.house.gov/Collection/Detail/29483" target="new">George Washington</a>, our first president.<p>
+<p>Each year, one of his successors comes to this chamber to report to a <a href="http://history.house.gov/Institution/Joint-Sessions/Joint-Sessions/" target="new">Joint Session</a> of Congress on the 
+<a href="http://history.house.gov/Institution/SOTU/State-of-the-Union/" target="new">State of the Union</a>. 
+This is where we do the people’s business. So we want to welcome you here, and, with this brochure, invite you to explore this special place we call <a href="http://history.house.gov/Media?mediaID=41347" target="new">the people’s House.</a> </p>
+</div>
+
+
+<div id="primary_content">
+<h3>A Brief History</h3>
+<p>Vital democratic processes and a rich heritage resound in the <a href="http://history.house.gov/Media?mediaID=41347" target="new">House Chamber</a>.
+ Legislative activities in the U.S. House of Representatives begin and end in this room. Every bill is introduced here, and those reported out of Committee return to be debated and voted on. The House Chamber hosts 
+the President’s annual <a href="http://history.house.gov/Institution/SOTU/State-of-the-Union/" target="new">State of the Union</a> address, delivered to a <a href="http://history.house.gov/Institution/Joint-Sessions/Joint-Sessions/" target="new">Joint Session of Congress</a>, as well as <a href="http://history.house.gov/Institution/Foreign-Leaders/Foreign-Leaders/" target="new">addresses by foreign dignitaries</a>.
+ It has also served as the scene of some of the most dramatic legislative events in American history—as Representatives craft laws and decide questions of war and peace.</p>
+ <p>
+The House met in this room for the first time on <a href="http://history.house.gov/Historical-Highlights/1851-1900/The-opening-of-the-current-House-Chamber/" target="new">December 16, 1857</a>. Formerly the House met in the Old House Chamber, now called <a href="http://history.house.gov/Exhibitions-and-Publications/Statuary-Hall/Statuary-Hall/" target="new">National Statuary Hall</a>.
+ Seven Delegates and 234 Representatives (from 32 states and seven territories) sat at individual desks. As membership increased, the Chamber was altered several times.</p>
+ <p>
+The present, theater-style seating was installed in 1913. Major renovations made from 1949 to 1951 included the removal of the original marble Speaker’s rostrum and the replacement of the stained-glass ceiling. 
+The House Floor now accommodates 435 Representatives, five Delegates, and the Resident Commissioner of Puerto Rico.</p>
+</div>
+
+<div id="secondary_content">
+<p><a href="house-chamber-brochure.pdf" target="_blank"><img src="../images/chamber-brochure.jpg" alt="House Chamber Brochure" style="float:left;" width="211" height="282" vspace="20" border="0"></a></p>
+<div style="float:left;clear:both;">
+<a href="house-chamber-brochure.pdf" target="_blank">Download the House Chamber Brochure PDF</a>
+</div>
+</div>
+
+
+
+<div id="tertiary_nav">
+ <ul>
+ <li><b>A Brief History</a></b>
+<li><a href="chamber_guide.aspx">Guide to the Chamber</a></li>
+ <li><a href="speakers-lobby.aspx">Speaker’s Lobby</a></li>
+  </ul>
+</div>
+
+  
+
+
+	
+<hr style="clear: both; margin: 0px; padding: 0px; visibility: hidden;" />
+     
+
+</div>
+
+
+            </div>
+            <div id="footer">
+                <div id="breadcrumb">
+                    <a href="http://clerk.house.gov/index.aspx">Home</a>&nbsp;<img src="/images/bcrumbbullet.gif" border="0" />&nbsp;<a href="/about/index.aspx">About the Clerk's Office</a>&nbsp;<img src="/images/bcrumbbullet.gif" border="0" />&nbsp; - chamber
+                </div>
+                <ul>
+                    
+                    <li><a href="/security-privacy.aspx" id="footPrivacy">Security &amp; Privacy</a></li>
+                    <li><a href="/help.aspx" id="footHelp">Help</a></li>
+                    <li><a href="/sitemap.aspx" id="footSiteMap">Site Map</a></li>
+                    <li><a href="/new.aspx" id="footNew">New</a></li>
+                </ul>
+            </div>
+            <div id="f-textlinks">
+                <ul>
+                    <li><a href="/about/">About the Clerk's Office</a> | </li>
+                    <li><a href="/member_info/">Member Information</a> |</li>
+                    <li><a href="/committee_info/">Committee Information</a> |</li>
+                    <li><a href="/legislative/">Legislative Activities</a> |</li>
+                    <li><a href="/public_disc/">Public Disclosure</a> |</li>
+                    <li><a href="http://library.clerk.house.gov/">House Library</a></li>
+                </ul>
+            </div>
+            <div id="bottom">
+                Office of the Clerk - U.S. Capitol, Room H154, Washington, DC 20515-6601 | (202)
+                225-7000<br />
+                <br />
+                For general inquiries: <a style="color: #fff;" href="mailto:info.clerkweb@mail.house.gov">
+                    info.clerkweb@mail.house.gov</a><br />
+                For general technical support: <a style="color: #fff;" href="mailto:techsupport.clerkweb@mail.house.gov">
+                    techsupport.clerkweb@mail.house.gov</a><br />
+                For HouseLive support: <a style="color: #fff;" href="mailto:houselive@mail.house.gov">
+                    houselive@mail.house.gov</a>
+                             </div>             
+             <script>
+             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+              ga('create', 'UA-9875785-1', 'auto');
+              ga('send', 'pageview');
+              </script>
+        </div>
+    </div>
+    </form>
+   
+    <form method="get" name="congressBill" action = "https://congress.gov/search" target="_blank">
+     <input name="q" value="" type="hidden" />
+    </form>
+    
+</body>
+</html>

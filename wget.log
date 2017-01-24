@@ -1,227 +1,290 @@
---2017-01-24 05:28:31--  http://clerk.house.gov/public_disc/giftTravel.aspx
+--2017-01-24 05:32:02--  http://clerk.house.gov/public_disc/giftTravel.aspx
 Resolving clerk.house.gov... 143.228.165.15
 Connecting to clerk.house.gov|143.228.165.15|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 12462 (12K) [text/html]
 Saving to: ‘public_disc/giftTravel.aspx.html’
 
-     0K .......... ..                                         100%  132K=0.09s
+     0K .......... ..                                         100%  137K=0.09s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:32 (132 KB/s) - ‘public_disc/giftTravel.aspx.html’ saved [12462/12462]
+2017-01-24 05:32:03 (137 KB/s) - ‘public_disc/giftTravel.aspx.html’ saved [12462/12462]
 
 Loading robots.txt; please ignore errors.
---2017-01-24 05:28:32--  http://clerk.house.gov/robots.txt
+--2017-01-24 05:32:03--  http://clerk.house.gov/robots.txt
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 313 [text/plain]
 Saving to: ‘robots.txt’
 
-     0K                                                       100% 29.9M=0s
+     0K                                                       100% 27.1M=0s
 
-2017-01-24 05:28:32 (29.9 MB/s) - ‘robots.txt’ saved [313/313]
+2017-01-24 05:32:03 (27.1 MB/s) - ‘robots.txt’ saved [313/313]
 
---2017-01-24 05:28:32--  http://clerk.house.gov/favicon.ico
+--2017-01-24 05:32:03--  http://clerk.house.gov/favicon.ico
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 1406 (1.4K) [image/x-icon]
 Saving to: ‘favicon.ico’
 
-     0K .                                                     100%  540K=0.003s
+     0K .                                                     100%  116K=0.01s
 
-2017-01-24 05:28:32 (540 KB/s) - ‘favicon.ico’ saved [1406/1406]
+2017-01-24 05:32:03 (116 KB/s) - ‘favicon.ico’ saved [1406/1406]
 
---2017-01-24 05:28:32--  http://clerk.house.gov/public_disc/index.aspx
+--2017-01-24 05:32:03--  http://clerk.house.gov/index.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 86258 (84K) [text/html]
+Saving to: ‘index.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 59%  499K 0s
+    50K .......... .......... .......... ....                 100%  432K=0.2s
+
+2017-01-24 05:32:04 (469 KB/s) - ‘index.aspx.html’ saved [86258/86258]
+
+--2017-01-24 05:32:04--  http://clerk.house.gov/about/index.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15048 (15K) [text/html]
+Saving to: ‘about/index.aspx.html’
+
+     0K .......... ....                                       100% 1.29M=0.01s
+
+2017-01-24 05:32:04 (1.29 MB/s) - ‘about/index.aspx.html’ saved [15048/15048]
+
+--2017-01-24 05:32:04--  http://clerk.house.gov/member_info/index.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20197 (20K) [text/html]
+Saving to: ‘member_info/index.aspx.html’
+
+     0K .......... .........                                  100% 3.40M=0.006s
+
+2017-01-24 05:32:04 (3.40 MB/s) - ‘member_info/index.aspx.html’ saved [20197/20197]
+
+--2017-01-24 05:32:04--  http://clerk.house.gov/committee_info/index.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12734 (12K) [text/html]
+Saving to: ‘committee_info/index.aspx.html’
+
+     0K .......... ..                                         100% 1.04M=0.01s
+
+2017-01-24 05:32:04 (1.04 MB/s) - ‘committee_info/index.aspx.html’ saved [12734/12734]
+
+--2017-01-24 05:32:04--  http://clerk.house.gov/legislative/index.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 320240 (313K) [text/html]
+Saving to: ‘legislative/index.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 15% 1.14M 0s
+    50K .......... .......... .......... .......... .......... 31% 2.30M 0s
+   100K .......... .......... .......... .......... .......... 47% 1.01M 0s
+   150K .......... .......... .......... .......... .......... 63%  461K 0s
+   200K .......... .......... .......... .......... .......... 79%  264K 0s
+   250K .......... .......... .......... .......... .......... 95%  351K 0s
+   300K .......... ..                                         100%  262K=0.6s
+
+2017-01-24 05:32:06 (520 KB/s) - ‘legislative/index.aspx.html’ saved [320240/320240]
+
+--2017-01-24 05:32:06--  http://clerk.house.gov/public_disc/index.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 14460 (14K) [text/html]
 Saving to: ‘public_disc/index.aspx.html’
 
-     0K .......... ....                                       100% 1.01M=0.01s
+     0K .......... ....                                       100%  196K=0.07s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:32 (1.01 MB/s) - ‘public_disc/index.aspx.html’ saved [14460/14460]
+2017-01-24 05:32:06 (196 KB/s) - ‘public_disc/index.aspx.html’ saved [14460/14460]
 
---2017-01-24 05:28:32--  http://clerk.house.gov/public_disc/financial.aspx
+--2017-01-24 05:32:06--  http://clerk.house.gov/public_disc/financial.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 17476 (17K) [text/html]
 Saving to: ‘public_disc/financial.aspx.html’
 
-     0K .......... .......                                    100% 1.38M=0.01s
+     0K .......... .......                                    100%  222K=0.08s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:32 (1.38 MB/s) - ‘public_disc/financial.aspx.html’ saved [17476/17476]
+2017-01-24 05:32:06 (222 KB/s) - ‘public_disc/financial.aspx.html’ saved [17476/17476]
 
---2017-01-24 05:28:32--  http://clerk.house.gov/public_disc/foreign/index.aspx
+--2017-01-24 05:32:06--  http://clerk.house.gov/public_disc/foreign/index.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 13786 (13K) [text/html]
 Saving to: ‘public_disc/foreign/index.aspx.html’
 
-     0K .......... ...                                        100% 1.34M=0.01s
+     0K .......... ...                                        100%  422K=0.03s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:33 (1.34 MB/s) - ‘public_disc/foreign/index.aspx.html’ saved [13786/13786]
+2017-01-24 05:32:06 (422 KB/s) - ‘public_disc/foreign/index.aspx.html’ saved [13786/13786]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/franked.aspx
+--2017-01-24 05:32:06--  http://clerk.house.gov/public_disc/franked.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 11503 (11K) [text/html]
 Saving to: ‘public_disc/franked.aspx.html’
 
-     0K .......... .                                          100%  822K=0.01s
+     0K .......... .                                          100%  297K=0.04s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:33 (822 KB/s) - ‘public_disc/franked.aspx.html’ saved [11503/11503]
+2017-01-24 05:32:06 (297 KB/s) - ‘public_disc/franked.aspx.html’ saved [11503/11503]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/legal.aspx
+--2017-01-24 05:32:06--  http://clerk.house.gov/public_disc/legal.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 11319 (11K) [text/html]
 Saving to: ‘public_disc/legal.aspx.html’
 
-     0K .......... .                                          100% 1.21M=0.009s
+     0K .......... .                                          100%  310K=0.04s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:33 (1.21 MB/s) - ‘public_disc/legal.aspx.html’ saved [11319/11319]
+2017-01-24 05:32:07 (310 KB/s) - ‘public_disc/legal.aspx.html’ saved [11319/11319]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/ethics.aspx
+--2017-01-24 05:32:07--  http://clerk.house.gov/public_disc/ethics.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 10895 (11K) [text/html]
 Saving to: ‘public_disc/ethics.aspx.html’
 
-     0K ..........                                            100%  798K=0.01s
+     0K ..........                                            100%  306K=0.03s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:33 (798 KB/s) - ‘public_disc/ethics.aspx.html’ saved [10895/10895]
+2017-01-24 05:32:07 (306 KB/s) - ‘public_disc/ethics.aspx.html’ saved [10895/10895]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/postemployment.aspx
+--2017-01-24 05:32:07--  http://clerk.house.gov/public_disc/postemployment.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 11618 (11K) [text/html]
 Saving to: ‘public_disc/postemployment.aspx.html’
 
-     0K .......... .                                          100% 1.80M=0.006s
+     0K .......... .                                          100%  399K=0.03s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:33 (1.80 MB/s) - ‘public_disc/postemployment.aspx.html’ saved [11618/11618]
+2017-01-24 05:32:07 (399 KB/s) - ‘public_disc/postemployment.aspx.html’ saved [11618/11618]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/images/headers/p_gifts.jpg
+--2017-01-24 05:32:07--  http://clerk.house.gov/images/headers/p_gifts.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 44307 (43K) [image/jpeg]
 Saving to: ‘images/headers/p_gifts.jpg’
 
-     0K .......... .......... .......... .......... ...       100% 2.98M=0.01s
+     0K .......... .......... .......... .......... ...       100% 1.87M=0.02s
 
-2017-01-24 05:28:33 (2.98 MB/s) - ‘images/headers/p_gifts.jpg’ saved [44307/44307]
+2017-01-24 05:32:07 (1.87 MB/s) - ‘images/headers/p_gifts.jpg’ saved [44307/44307]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/PLAW-110publ81.txt
+--2017-01-24 05:32:07--  http://clerk.house.gov/legislative/house-rules.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 274268 (268K) [application/pdf]
+Saving to: ‘legislative/house-rules.pdf’
+
+     0K .......... .......... .......... .......... .......... 18% 2.68M 0s
+    50K .......... .......... .......... .......... .......... 37% 2.39M 0s
+   100K .......... .......... .......... .......... .......... 56% 1.98M 0s
+   150K .......... .......... .......... .......... .......... 74%  507K 0s
+   200K .......... .......... .......... .......... .......... 93% 1.14M 0s
+   250K .......... .......                                    100%  134M=0.2s
+
+2017-01-24 05:32:07 (1.28 MB/s) - ‘legislative/house-rules.pdf’ saved [274268/274268]
+
+--2017-01-24 05:32:07--  http://clerk.house.gov/public_disc/PLAW-110publ81.txt
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 144523 (141K) [text/plain]
 Saving to: ‘public_disc/PLAW-110publ81.txt’
 
-     0K .......... .......... .......... .......... .......... 35% 3.29M 0s
-    50K .......... .......... .......... .......... .......... 70% 3.43M 0s
-   100K .......... .......... .......... .......... .         100%  574K=0.1s
+     0K .......... .......... .......... .......... .......... 35% 3.69M 0s
+    50K .......... .......... .......... .......... .......... 70% 2.34M 0s
+   100K .......... .......... .......... .......... .         100%  571K=0.1s
 
-2017-01-24 05:28:33 (1.37 MB/s) - ‘public_disc/PLAW-110publ81.txt’ saved [144523/144523]
+2017-01-24 05:32:08 (1.30 MB/s) - ‘public_disc/PLAW-110publ81.txt’ saved [144523/144523]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/gift-pdfs/2011Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2011Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 106490 (104K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2011Travel.ZIP’
 
-     0K .......... .......... .......... .......... .......... 48% 5.43M 0s
-    50K .......... .......... .......... .......... .......... 96% 2.28M 0s
-   100K ...                                                   100% 29.3M=0.03s
+     0K .......... .......... .......... .......... .......... 48% 1.80M 0s
+    50K .......... .......... .......... .......... .......... 96% 2.82M 0s
+   100K ...                                                   100% 8.97M=0.04s
 
-2017-01-24 05:28:33 (3.33 MB/s) - ‘public_disc/gift-pdfs/2011Travel.ZIP’ saved [106490/106490]
+2017-01-24 05:32:08 (2.26 MB/s) - ‘public_disc/gift-pdfs/2011Travel.ZIP’ saved [106490/106490]
 
---2017-01-24 05:28:33--  http://clerk.house.gov/public_disc/gift-pdfs/2012Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2012Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 84659 (83K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2012Travel.ZIP’
 
-     0K .......... .......... .......... .......... .......... 60% 4.00M 0s
-    50K .......... .......... .......... ..                   100% 2.01M=0.03s
+     0K .......... .......... .......... .......... .......... 60% 4.86M 0s
+    50K .......... .......... .......... ..                   100% 1.73M=0.03s
 
-2017-01-24 05:28:34 (2.88 MB/s) - ‘public_disc/gift-pdfs/2012Travel.ZIP’ saved [84659/84659]
+2017-01-24 05:32:08 (2.83 MB/s) - ‘public_disc/gift-pdfs/2012Travel.ZIP’ saved [84659/84659]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/public_disc/gift-pdfs/2013Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2013Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 110881 (108K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2013Travel.ZIP’
 
-     0K .......... .......... .......... .......... .......... 46% 3.49M 0s
-    50K .......... .......... .......... .......... .......... 92% 3.28M 0s
-   100K ........                                              100% 7.84M=0.03s
+     0K .......... .......... .......... .......... .......... 46% 5.11M 0s
+    50K .......... .......... .......... .......... .......... 92% 1.86M 0s
+   100K ........                                              100% 9.89M=0.04s
 
-2017-01-24 05:28:34 (3.54 MB/s) - ‘public_disc/gift-pdfs/2013Travel.ZIP’ saved [110881/110881]
+2017-01-24 05:32:08 (2.89 MB/s) - ‘public_disc/gift-pdfs/2013Travel.ZIP’ saved [110881/110881]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/public_disc/gift-pdfs/2014Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2014Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 106527 (104K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2014Travel.ZIP’
 
-     0K .......... .......... .......... .......... .......... 48% 4.88M 0s
-    50K .......... .......... .......... .......... .......... 96% 2.05M 0s
-   100K ....                                                  100% 2.22M=0.04s
+     0K .......... .......... .......... .......... .......... 48% 3.99M 0s
+    50K .......... .......... .......... .......... .......... 96% 2.21M 0s
+   100K ....                                                  100% 5.50M=0.04s
 
-2017-01-24 05:28:34 (2.86 MB/s) - ‘public_disc/gift-pdfs/2014Travel.ZIP’ saved [106527/106527]
+2017-01-24 05:32:08 (2.90 MB/s) - ‘public_disc/gift-pdfs/2014Travel.ZIP’ saved [106527/106527]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/public_disc/gift-pdfs/2015Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2015Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 119139 (116K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2015Travel.ZIP’
 
-     0K .......... .......... .......... .......... .......... 42% 5.53M 0s
-    50K .......... .......... .......... .......... .......... 85% 2.13M 0s
-   100K .......... ......                                     100% 7.00M=0.03s
+     0K .......... .......... .......... .......... .......... 42% 3.30M 0s
+    50K .......... .......... .......... .......... .......... 85% 2.46M 0s
+   100K .......... ......                                     100% 1.05M=0.05s
 
-2017-01-24 05:28:34 (3.34 MB/s) - ‘public_disc/gift-pdfs/2015Travel.ZIP’ saved [119139/119139]
+2017-01-24 05:32:08 (2.28 MB/s) - ‘public_disc/gift-pdfs/2015Travel.ZIP’ saved [119139/119139]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/public_disc/gift-pdfs/2016Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2016Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 97366 (95K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2016Travel.ZIP’
 
-     0K .......... .......... .......... .......... .......... 52% 4.34M 0s
-    50K .......... .......... .......... .......... .....     100% 2.34M=0.03s
+     0K .......... .......... .......... .......... .......... 52% 4.91M 0s
+    50K .......... .......... .......... .......... .....     100% 1.76M=0.03s
 
-2017-01-24 05:28:34 (3.09 MB/s) - ‘public_disc/gift-pdfs/2016Travel.ZIP’ saved [97366/97366]
+2017-01-24 05:32:08 (2.65 MB/s) - ‘public_disc/gift-pdfs/2016Travel.ZIP’ saved [97366/97366]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/public_disc/gift-pdfs/2017Travel.ZIP
+--2017-01-24 05:32:08--  http://clerk.house.gov/public_disc/gift-pdfs/2017Travel.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 2963 (2.9K) [application/x-zip-compressed]
 Saving to: ‘public_disc/gift-pdfs/2017Travel.ZIP’
 
-     0K ..                                                    100%  253K=0.01s
+     0K ..                                                    100%  256K=0.01s
 
-2017-01-24 05:28:34 (253 KB/s) - ‘public_disc/gift-pdfs/2017Travel.ZIP’ saved [2963/2963]
+2017-01-24 05:32:09 (256 KB/s) - ‘public_disc/gift-pdfs/2017Travel.ZIP’ saved [2963/2963]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/public_disc/giftTravel-search.aspx
+--2017-01-24 05:32:09--  http://clerk.house.gov/public_disc/giftTravel-search.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 13316 (13K) [text/html]
 Saving to: ‘public_disc/giftTravel-search.aspx.html’
 
-     0K .......... ...                                        100% 1.08M=0.01s
+     0K .......... ...                                        100% 1.60M=0.008s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:34 (1.08 MB/s) - ‘public_disc/giftTravel-search.aspx.html’ saved [13316/13316]
+2017-01-24 05:32:09 (1.60 MB/s) - ‘public_disc/giftTravel-search.aspx.html’ saved [13316/13316]
 
---2017-01-24 05:28:34--  http://clerk.house.gov/images/bcrumbbullet.gif
+--2017-01-24 05:32:09--  http://clerk.house.gov/images/bcrumbbullet.gif
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 107 [image/gif]
@@ -229,394 +292,1405 @@ Saving to: ‘images/bcrumbbullet.gif’
 
      0K                                                       100% 12.8M=0s
 
-2017-01-24 05:28:35 (12.8 MB/s) - ‘images/bcrumbbullet.gif’ saved [107/107]
+2017-01-24 05:32:09 (12.8 MB/s) - ‘images/bcrumbbullet.gif’ saved [107/107]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/
+--2017-01-24 05:32:09--  http://clerk.house.gov/security-privacy.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16200 (16K) [text/html]
+Saving to: ‘security-privacy.aspx.html’
+
+     0K .......... .....                                      100%  997K=0.02s
+
+2017-01-24 05:32:09 (997 KB/s) - ‘security-privacy.aspx.html’ saved [16200/16200]
+
+--2017-01-24 05:32:09--  http://clerk.house.gov/help.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13785 (13K) [text/html]
+Saving to: ‘help.aspx.html’
+
+     0K .......... ...                                        100%  608K=0.02s
+
+2017-01-24 05:32:09 (608 KB/s) - ‘help.aspx.html’ saved [13785/13785]
+
+--2017-01-24 05:32:09--  http://clerk.house.gov/sitemap.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14685 (14K) [text/html]
+Saving to: ‘sitemap.aspx.html’
+
+     0K .......... ....                                       100% 1.23M=0.01s
+
+2017-01-24 05:32:09 (1.23 MB/s) - ‘sitemap.aspx.html’ saved [14685/14685]
+
+--2017-01-24 05:32:09--  http://clerk.house.gov/new.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9150 (8.9K) [text/html]
+Saving to: ‘new.aspx.html’
+
+     0K ........                                              100%  819K=0.01s
+
+2017-01-24 05:32:09 (819 KB/s) - ‘new.aspx.html’ saved [9150/9150]
+
+--2017-01-24 05:32:09--  http://clerk.house.gov/about/
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15038 (15K) [text/html]
+Saving to: ‘about/index.html’
+
+     0K .......... ....                                       100% 1.15M=0.01s
+
+2017-01-24 05:32:09 (1.15 MB/s) - ‘about/index.html’ saved [15038/15038]
+
+--2017-01-24 05:32:09--  http://clerk.house.gov/member_info/
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20187 (20K) [text/html]
+Saving to: ‘member_info/index.html’
+
+     0K .......... .........                                  100% 1.28M=0.02s
+
+2017-01-24 05:32:09 (1.28 MB/s) - ‘member_info/index.html’ saved [20187/20187]
+
+--2017-01-24 05:32:09--  http://clerk.house.gov/committee_info/
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12724 (12K) [text/html]
+Saving to: ‘committee_info/index.html’
+
+     0K .......... ..                                         100%  941K=0.01s
+
+2017-01-24 05:32:10 (941 KB/s) - ‘committee_info/index.html’ saved [12724/12724]
+
+--2017-01-24 05:32:10--  http://clerk.house.gov/legislative/
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 320230 (313K) [text/html]
+Saving to: ‘legislative/index.html’
+
+     0K .......... .......... .......... .......... .......... 15% 4.26M 0s
+    50K .......... .......... .......... .......... .......... 31% 2.50M 0s
+   100K .......... .......... .......... .......... .......... 47%  803K 0s
+   150K .......... .......... .......... .......... .......... 63%  505K 0s
+   200K .......... .......... .......... .......... .......... 79%  286K 0s
+   250K .......... .......... .......... .......... .......... 95%  310K 0s
+   300K .......... ..                                         100%  286K=0.6s
+
+2017-01-24 05:32:11 (546 KB/s) - ‘legislative/index.html’ saved [320230/320230]
+
+--2017-01-24 05:32:11--  http://clerk.house.gov/public_disc/
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 14450 (14K) [text/html]
 Saving to: ‘public_disc/index.html’
 
-     0K .......... ....                                       100%  993K=0.01s
+     0K .......... ....                                       100%  300K=0.05s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:35 (993 KB/s) - ‘public_disc/index.html’ saved [14450/14450]
+2017-01-24 05:32:11 (300 KB/s) - ‘public_disc/index.html’ saved [14450/14450]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/images/headers/p_publicheader.jpg
+--2017-01-24 05:32:11--  http://clerk.house.gov/about/duties.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11900 (12K) [text/html]
+Saving to: ‘about/duties.aspx.html’
+
+     0K .......... .                                          100%  491K=0.02s
+
+2017-01-24 05:32:11 (491 KB/s) - ‘about/duties.aspx.html’ saved [11900/11900]
+
+--2017-01-24 05:32:11--  http://clerk.house.gov/about/offices.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15323 (15K) [text/html]
+Saving to: ‘about/offices.aspx.html’
+
+     0K .......... ....                                       100%  273K=0.05s
+
+2017-01-24 05:32:12 (273 KB/s) - ‘about/offices.aspx.html’ saved [15323/15323]
+
+--2017-01-24 05:32:12--  http://clerk.house.gov/about/history.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 110361 (108K) [text/html]
+Saving to: ‘about/history.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 46%  302K 0s
+    50K .......... .......... .......... .......... .......... 92%  279K 0s
+   100K .......                                               100%  290K=0.4s
+
+2017-01-24 05:32:12 (290 KB/s) - ‘about/history.aspx.html’ saved [110361/110361]
+
+--2017-01-24 05:32:12--  http://clerk.house.gov/about/press/index.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13542 (13K) [text/html]
+Saving to: ‘about/press/index.aspx.html’
+
+     0K .......... ...                                        100%  293K=0.05s
+
+2017-01-24 05:32:12 (293 KB/s) - ‘about/press/index.aspx.html’ saved [13542/13542]
+
+--2017-01-24 05:32:12--  http://clerk.house.gov/about/house_chamber.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13469 (13K) [text/html]
+Saving to: ‘about/house_chamber.aspx.html’
+
+     0K .......... ...                                        100%  150K=0.09s
+
+2017-01-24 05:32:12 (150 KB/s) - ‘about/house_chamber.aspx.html’ saved [13469/13469]
+
+--2017-01-24 05:32:12--  http://clerk.house.gov/member_info/olmbr.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36689 (36K) [text/html]
+Saving to: ‘member_info/olmbr.aspx.html’
+
+     0K .......... .......... .......... .....                100% 1001K=0.04s
+
+2017-01-24 05:32:13 (1001 KB/s) - ‘member_info/olmbr.aspx.html’ saved [36689/36689]
+
+--2017-01-24 05:32:13--  http://clerk.house.gov/member_info/olm112.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 52020 (51K) [text/html]
+Saving to: ‘member_info/olm112.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 98% 4.62M 0s
+    50K                                                       100%  388K=0.01s
+
+2017-01-24 05:32:13 (3.93 MB/s) - ‘member_info/olm112.aspx.html’ saved [52020/52020]
+
+--2017-01-24 05:32:13--  http://clerk.house.gov/member_info/olm-115.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 121565 (119K) [application/pdf]
+Saving to: ‘member_info/olm-115.pdf’
+
+     0K .......... .......... .......... .......... .......... 42%  779K 0s
+    50K .......... .......... .......... .......... .......... 84% 1.96M 0s
+   100K .......... ........                                   100% 1.18M=0.1s
+
+2017-01-24 05:32:13 (1.11 MB/s) - ‘member_info/olm-115.pdf’ saved [121565/121565]
+
+--2017-01-24 05:32:13--  http://clerk.house.gov/member_info/ttd.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50726 (50K) [text/html]
+Saving to: ‘member_info/ttd.aspx.html’
+
+     0K .......... .......... .......... .......... ......... 100% 9.10M=0.005s
+
+2017-01-24 05:32:13 (9.10 MB/s) - ‘member_info/ttd.aspx.html’ saved [50726/50726]
+
+--2017-01-24 05:32:13--  http://clerk.house.gov/member_info/TTD-115.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 97283 (95K) [application/pdf]
+Saving to: ‘member_info/TTD-115.pdf’
+
+     0K .......... .......... .......... .......... .......... 52% 3.16M 0s
+    50K .......... .......... .......... .......... .....     100% 2.01M=0.04s
+
+2017-01-24 05:32:13 (2.48 MB/s) - ‘member_info/TTD-115.pdf’ saved [97283/97283]
+
+--2017-01-24 05:32:13--  http://clerk.house.gov/committee_info/oal.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 57484 (56K) [text/html]
+Saving to: ‘committee_info/oal.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 89% 3.79M 0s
+    50K ......                                                100% 4.18M=0.01s
+
+2017-01-24 05:32:14 (3.83 MB/s) - ‘committee_info/oal.aspx.html’ saved [57484/57484]
+
+--2017-01-24 05:32:14--  http://clerk.house.gov/committee_info/oal.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 103397 (101K) [application/pdf]
+Saving to: ‘committee_info/oal.pdf’
+
+     0K .......... .......... .......... .......... .......... 49% 3.14M 0s
+    50K .......... .......... .......... .......... .......... 99% 1.43M 0s
+   100K                                                       100% 84.6K=0.06s
+
+2017-01-24 05:32:14 (1.61 MB/s) - ‘committee_info/oal.pdf’ saved [103397/103397]
+
+--2017-01-24 05:32:14--  http://clerk.house.gov/committee_info/scsoal.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 199919 (195K) [application/pdf]
+Saving to: ‘committee_info/scsoal.pdf’
+
+     0K .......... .......... .......... .......... .......... 25% 2.13M 0s
+    50K .......... .......... .......... .......... .......... 51% 1.16M 0s
+   100K .......... .......... .......... .......... .......... 76% 2.22M 0s
+   150K .......... .......... .......... .......... .....     100% 1.79M=0.1s
+
+2017-01-24 05:32:14 (1.70 MB/s) - ‘committee_info/scsoal.pdf’ saved [199919/199919]
+
+--2017-01-24 05:32:14--  http://clerk.house.gov/member_info/word-labels-115.docx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42935 (42K) [application/vnd.openxmlformats-officedocument.wordprocessingml.document]
+Saving to: ‘member_info/word-labels-115.docx’
+
+     0K .......... .......... .......... .......... .         100% 1.97M=0.02s
+
+2017-01-24 05:32:14 (1.97 MB/s) - ‘member_info/word-labels-115.docx’ saved [42935/42935]
+
+--2017-01-24 05:32:14--  http://clerk.house.gov/member_info/wp-labels-115.wpd
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 182681 (178K) [application/wordperfect]
+Saving to: ‘member_info/wp-labels-115.wpd’
+
+     0K .......... .......... .......... .......... .......... 28% 3.17M 0s
+    50K .......... .......... .......... .......... .......... 56% 2.02M 0s
+   100K .......... .......... .......... .......... .......... 84%  878K 0s
+   150K .......... .......... ........                        100% 1.53M=0.1s
+
+2017-01-24 05:32:14 (1.52 MB/s) - ‘member_info/wp-labels-115.wpd’ saved [182681/182681]
+
+--2017-01-24 05:32:14--  http://clerk.house.gov/member_info/text-labels-115.txt
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 49062 (48K) [text/plain]
+Saving to: ‘member_info/text-labels-115.txt’
+
+     0K .......... .......... .......... .......... .......   100% 5.19M=0.009s
+
+2017-01-24 05:32:15 (5.19 MB/s) - ‘member_info/text-labels-115.txt’ saved [49062/49062]
+
+--2017-01-24 05:32:15--  http://clerk.house.gov/member_info/excel-labels-115.xlsx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50254 (49K) [application/vnd.openxmlformats-officedocument.spreadsheetml.sheet]
+Saving to: ‘member_info/excel-labels-115.xlsx’
+
+     0K .......... .......... .......... .......... ......... 100% 2.14M=0.02s
+
+2017-01-24 05:32:15 (2.14 MB/s) - ‘member_info/excel-labels-115.xlsx’ saved [50254/50254]
+
+--2017-01-24 05:32:15--  http://clerk.house.gov/xml/lists/MemberData.xml
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 454135 (443K) [text/xml]
+Saving to: ‘xml/lists/MemberData.xml’
+
+     0K .......... .......... .......... .......... .......... 11% 11.0M 0s
+    50K .......... .......... .......... .......... .......... 22% 2.22M 0s
+   100K .......... .......... .......... .......... .......... 33%  831K 0s
+   150K .......... .......... .......... .......... .......... 45% 2.58M 0s
+   200K .......... .......... .......... .......... .......... 56% 3.95M 0s
+   250K .......... .......... .......... .......... .......... 67%  809K 0s
+   300K .......... .......... .......... .......... .......... 78% 2.79M 0s
+   350K .......... .......... .......... .......... .......... 90% 2.90M 0s
+   400K .......... .......... .......... .......... ...       100%  696K=0.3s
+
+2017-01-24 05:32:15 (1.57 MB/s) - ‘xml/lists/MemberData.xml’ saved [454135/454135]
+
+--2017-01-24 05:32:15--  http://clerk.house.gov/member_info/MemberData_UserGuide.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 210351 (205K) [application/pdf]
+Saving to: ‘member_info/MemberData_UserGuide.pdf’
+
+     0K .......... .......... .......... .......... .......... 24% 2.60M 0s
+    50K .......... .......... .......... .......... .......... 48% 1.78M 0s
+   100K .......... .......... .......... .......... .......... 73% 1.21M 0s
+   150K .......... .......... .......... .......... .......... 97%  857K 0s
+   200K .....                                                 100%  432K=0.2s
+
+2017-01-24 05:32:15 (1.27 MB/s) - ‘member_info/MemberData_UserGuide.pdf’ saved [210351/210351]
+
+--2017-01-24 05:32:15--  http://clerk.house.gov/member_info/duplicate-names-115.pdf
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 222376 (217K) [application/pdf]
+Saving to: ‘member_info/duplicate-names-115.pdf’
+
+     0K .......... .......... .......... .......... .......... 23% 2.85M 0s
+    50K .......... .......... .......... .......... .......... 46% 1.67M 0s
+   100K .......... .......... .......... .......... .......... 69% 1.27M 0s
+   150K .......... .......... .......... .......... .......... 92% 2.30M 0s
+   200K .......... .......                                    100% 1.27M=0.1s
+
+2017-01-24 05:32:16 (1.78 MB/s) - ‘member_info/duplicate-names-115.pdf’ saved [222376/222376]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/floorsummary/floor.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 80160 (78K) [text/html]
+Saving to: ‘floorsummary/floor.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 63% 3.66M 0s
+    50K .......... .......... ........                        100% 1.72M=0.03s
+
+2017-01-24 05:32:16 (2.60 MB/s) - ‘floorsummary/floor.aspx.html’ saved [80160/80160]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/legislative/legvotes.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14511 (14K) [text/html]
+Saving to: ‘legislative/legvotes.aspx.html’
+
+     0K .......... ....                                       100% 1.14M=0.01s
+
+2017-01-24 05:32:16 (1.14 MB/s) - ‘legislative/legvotes.aspx.html’ saved [14511/14511]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/member_info/cong.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14439 (14K) [text/html]
+Saving to: ‘member_info/cong.aspx.html’
+
+     0K .......... ....                                       100% 1.74M=0.008s
+
+2017-01-24 05:32:16 (1.74 MB/s) - ‘member_info/cong.aspx.html’ saved [14439/14439]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/member_info/vacancies.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9742 (9.5K) [text/html]
+Saving to: ‘member_info/vacancies.aspx.html’
+
+     0K .........                                             100%  828K=0.01s
+
+2017-01-24 05:32:16 (828 KB/s) - ‘member_info/vacancies.aspx.html’ saved [9742/9742]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/images/headers/a_aboutheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22035 (22K) [image/jpeg]
+Saving to: ‘images/headers/a_aboutheader.jpg’
+
+     0K .......... .......... .                               100% 1.80M=0.01s
+
+2017-01-24 05:32:16 (1.80 MB/s) - ‘images/headers/a_aboutheader.jpg’ saved [22035/22035]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/images/photos/haas.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21011 (21K) [image/jpeg]
+Saving to: ‘images/photos/haas.jpg’
+
+     0K .......... ..........                                 100% 2.29M=0.009s
+
+2017-01-24 05:32:16 (2.29 MB/s) - ‘images/photos/haas.jpg’ saved [21011/21011]
+
+--2017-01-24 05:32:16--  http://clerk.house.gov/images/imagespace.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 92 [image/gif]
+Saving to: ‘images/imagespace.gif’
+
+     0K                                                       100% 7.98M=0s
+
+2017-01-24 05:32:17 (7.98 MB/s) - ‘images/imagespace.gif’ saved [92/92]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/member_info/leadership.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15114 (15K) [text/html]
+Saving to: ‘member_info/leadership.aspx.html’
+
+     0K .......... ....                                       100% 1.03M=0.01s
+
+2017-01-24 05:32:17 (1.03 MB/s) - ‘member_info/leadership.aspx.html’ saved [15114/15114]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/member_info/election.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12963 (13K) [text/html]
+Saving to: ‘member_info/election.aspx.html’
+
+     0K .......... ..                                         100% 3.58M=0.003s
+
+2017-01-24 05:32:17 (3.58 MB/s) - ‘member_info/election.aspx.html’ saved [12963/12963]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/member_info/memberfaq.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 53839 (53K) [text/html]
+Saving to: ‘member_info/memberfaq.aspx.html’
+
+     0K .......... .......... .......... .......... .......... 95% 3.66M 0s
+    50K ..                                                    100%  262K=0.02s
+
+2017-01-24 05:32:17 (2.21 MB/s) - ‘member_info/memberfaq.aspx.html’ saved [53839/53839]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/images/headers/m_memberinfoheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21739 (21K) [image/jpeg]
+Saving to: ‘images/headers/m_memberinfoheader.jpg’
+
+     0K .......... .......... .                               100% 1.60M=0.01s
+
+2017-01-24 05:32:17 (1.60 MB/s) - ‘images/headers/m_memberinfoheader.jpg’ saved [21739/21739]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/committee_info/commfaq.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24476 (24K) [text/html]
+Saving to: ‘committee_info/commfaq.aspx.html’
+
+     0K .......... .......... ...                             100% 4.74M=0.005s
+
+2017-01-24 05:32:17 (4.74 MB/s) - ‘committee_info/commfaq.aspx.html’ saved [24476/24476]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/images/headers/c_committeeheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21372 (21K) [image/jpeg]
+Saving to: ‘images/headers/c_committeeheader.jpg’
+
+     0K .......... ..........                                 100% 1.68M=0.01s
+
+2017-01-24 05:32:17 (1.68 MB/s) - ‘images/headers/c_committeeheader.jpg’ saved [21372/21372]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/committee_info/index.aspx?comcode=AG00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10225 (10.0K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=AG00.html’
+
+     0K .........                                             100%  403K=0.02s
+
+2017-01-24 05:32:17 (403 KB/s) - ‘committee_info/index.aspx?comcode=AG00.html’ saved [10225/10225]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/committee_info/index.aspx?comcode=AP00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12939 (13K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=AP00.html’
+
+     0K .......... ..                                         100%  937K=0.01s
+
+2017-01-24 05:32:17 (937 KB/s) - ‘committee_info/index.aspx?comcode=AP00.html’ saved [12939/12939]
+
+--2017-01-24 05:32:17--  http://clerk.house.gov/committee_info/index.aspx?comcode=AS00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13468 (13K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=AS00.html’
+
+     0K .......... ...                                        100%  950K=0.01s
+
+2017-01-24 05:32:18 (950 KB/s) - ‘committee_info/index.aspx?comcode=AS00.html’ saved [13468/13468]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=BU00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11857 (12K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=BU00.html’
+
+     0K .......... .                                          100%  825K=0.01s
+
+2017-01-24 05:32:18 (825 KB/s) - ‘committee_info/index.aspx?comcode=BU00.html’ saved [11857/11857]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=ED00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10212 (10.0K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=ED00.html’
+
+     0K .........                                             100%  297K=0.03s
+
+2017-01-24 05:32:18 (297 KB/s) - ‘committee_info/index.aspx?comcode=ED00.html’ saved [10212/10212]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=IF00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13068 (13K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=IF00.html’
+
+     0K .......... ..                                         100%  971K=0.01s
+
+2017-01-24 05:32:18 (971 KB/s) - ‘committee_info/index.aspx?comcode=IF00.html’ saved [13068/13068]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=SO00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9840 (9.6K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=SO00.html’
+
+     0K .........                                             100%  735K=0.01s
+
+2017-01-24 05:32:18 (735 KB/s) - ‘committee_info/index.aspx?comcode=SO00.html’ saved [9840/9840]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=BA00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13452 (13K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=BA00.html’
+
+     0K .......... ...                                        100% 1004K=0.01s
+
+2017-01-24 05:32:18 (1004 KB/s) - ‘committee_info/index.aspx?comcode=BA00.html’ saved [13452/13452]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=FA00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10337 (10K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=FA00.html’
+
+     0K ..........                                            100%  748K=0.01s
+
+2017-01-24 05:32:18 (748 KB/s) - ‘committee_info/index.aspx?comcode=FA00.html’ saved [10337/10337]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=HM00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10008 (9.8K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=HM00.html’
+
+     0K .........                                             100%  733K=0.01s
+
+2017-01-24 05:32:18 (733 KB/s) - ‘committee_info/index.aspx?comcode=HM00.html’ saved [10008/10008]
+
+--2017-01-24 05:32:18--  http://clerk.house.gov/committee_info/index.aspx?comcode=HA00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10018 (9.8K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=HA00.html’
+
+     0K .........                                             100%  737K=0.01s
+
+2017-01-24 05:32:19 (737 KB/s) - ‘committee_info/index.aspx?comcode=HA00.html’ saved [10018/10018]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=JU00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10078 (9.8K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=JU00.html’
+
+     0K .........                                             100%  161K=0.06s
+
+2017-01-24 05:32:19 (161 KB/s) - ‘committee_info/index.aspx?comcode=JU00.html’ saved [10078/10078]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=II00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10337 (10K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=II00.html’
+
+     0K ..........                                            100%  698K=0.01s
+
+2017-01-24 05:32:19 (698 KB/s) - ‘committee_info/index.aspx?comcode=II00.html’ saved [10337/10337]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=GO00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10332 (10K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=GO00.html’
+
+     0K ..........                                            100%  766K=0.01s
+
+2017-01-24 05:32:19 (766 KB/s) - ‘committee_info/index.aspx?comcode=GO00.html’ saved [10332/10332]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=RU00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10573 (10K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=RU00.html’
+
+     0K ..........                                            100%  767K=0.01s
+
+2017-01-24 05:32:19 (767 KB/s) - ‘committee_info/index.aspx?comcode=RU00.html’ saved [10573/10573]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=SY00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10093 (9.9K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=SY00.html’
+
+     0K .........                                             100%  747K=0.01s
+
+2017-01-24 05:32:19 (747 KB/s) - ‘committee_info/index.aspx?comcode=SY00.html’ saved [10093/10093]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=SM00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9858 (9.6K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=SM00.html’
+
+     0K .........                                             100%  755K=0.01s
+
+2017-01-24 05:32:19 (755 KB/s) - ‘committee_info/index.aspx?comcode=SM00.html’ saved [9858/9858]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=PW00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10577 (10K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=PW00.html’
+
+     0K ..........                                            100%  794K=0.01s
+
+2017-01-24 05:32:19 (794 KB/s) - ‘committee_info/index.aspx?comcode=PW00.html’ saved [10577/10577]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=VR00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9720 (9.5K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=VR00.html’
+
+     0K .........                                             100%  733K=0.01s
+
+2017-01-24 05:32:19 (733 KB/s) - ‘committee_info/index.aspx?comcode=VR00.html’ saved [9720/9720]
+
+--2017-01-24 05:32:19--  http://clerk.house.gov/committee_info/index.aspx?comcode=WM00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12094 (12K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=WM00.html’
+
+     0K .......... .                                          100%  882K=0.01s
+
+2017-01-24 05:32:20 (882 KB/s) - ‘committee_info/index.aspx?comcode=WM00.html’ saved [12094/12094]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/committee_info/index.aspx?comcode=IG00
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11424 (11K) [text/html]
+Saving to: ‘committee_info/index.aspx?comcode=IG00.html’
+
+     0K .......... .                                          100%  822K=0.01s
+
+2017-01-24 05:32:20 (822 KB/s) - ‘committee_info/index.aspx?comcode=IG00.html’ saved [11424/11424]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/legislative/housedoc.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13175 (13K) [text/html]
+Saving to: ‘legislative/housedoc.aspx.html’
+
+     0K .......... ..                                         100%  974K=0.01s
+
+2017-01-24 05:32:20 (974 KB/s) - ‘legislative/housedoc.aspx.html’ saved [13175/13175]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/legislative/legprocess.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13499 (13K) [text/html]
+Saving to: ‘legislative/legprocess.aspx.html’
+
+     0K .......... ...                                        100%  489K=0.03s
+
+2017-01-24 05:32:20 (489 KB/s) - ‘legislative/legprocess.aspx.html’ saved [13499/13499]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/legislative/legfaq.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36897 (36K) [text/html]
+Saving to: ‘legislative/legfaq.aspx.html’
+
+     0K .......... .......... .......... ......               100% 2.65M=0.01s
+
+2017-01-24 05:32:20 (2.65 MB/s) - ‘legislative/legfaq.aspx.html’ saved [36897/36897]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/images/headers/l_legislativeheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22384 (22K) [image/jpeg]
+Saving to: ‘images/headers/l_legislativeheader.jpg’
+
+     0K .......... .......... .                               100% 1.53M=0.01s
+
+2017-01-24 05:32:20 (1.53 MB/s) - ‘images/headers/l_legislativeheader.jpg’ saved [22384/22384]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/images/headers/house_floor_live.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14604 (14K) [image/jpeg]
+Saving to: ‘images/headers/house_floor_live.jpg’
+
+     0K .......... ....                                       100% 1.09M=0.01s
+
+2017-01-24 05:32:20 (1.09 MB/s) - ‘images/headers/house_floor_live.jpg’ saved [14604/14604]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/images/leg-houselive-screen.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21779 (21K) [image/jpeg]
+Saving to: ‘images/leg-houselive-screen.jpg’
+
+     0K .......... .......... .                               100% 1.74M=0.01s
+
+2017-01-24 05:32:20 (1.74 MB/s) - ‘images/leg-houselive-screen.jpg’ saved [21779/21779]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/images/headers/house_floor_proceedings-2.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2326 (2.3K) [image/gif]
+Saving to: ‘images/headers/house_floor_proceedings-2.gif’
+
+     0K ..                                                    100%  189K=0.01s
+
+2017-01-24 05:32:20 (189 KB/s) - ‘images/headers/house_floor_proceedings-2.gif’ saved [2326/2326]
+
+--2017-01-24 05:32:20--  http://clerk.house.gov/images/headers/congsch.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2439 (2.4K) [image/gif]
+Saving to: ‘images/headers/congsch.gif’
+
+     0K ..                                                    100% 52.2K=0.05s
+
+2017-01-24 05:32:21 (52.2 KB/s) - ‘images/headers/congsch.gif’ saved [2439/2439]
+
+--2017-01-24 05:32:21--  http://clerk.house.gov/legislative/memorials.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31188 (30K) [text/html]
+Saving to: ‘legislative/memorials.aspx.html’
+
+     0K .......... .......... ..........                      100% 1.79M=0.02s
+
+2017-01-24 05:32:21 (1.79 MB/s) - ‘legislative/memorials.aspx.html’ saved [31188/31188]
+
+--2017-01-24 05:32:21--  http://clerk.house.gov/images/headers/p_publicheader.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 20973 (20K) [image/jpeg]
 Saving to: ‘images/headers/p_publicheader.jpg’
 
-     0K .......... ..........                                 100% 1.10M=0.02s
+     0K .......... ..........                                 100% 1.29M=0.02s
 
-2017-01-24 05:28:35 (1.10 MB/s) - ‘images/headers/p_publicheader.jpg’ saved [20973/20973]
+2017-01-24 05:32:21 (1.29 MB/s) - ‘images/headers/p_publicheader.jpg’ saved [20973/20973]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/110-81.pdf
+--2017-01-24 05:32:21--  http://clerk.house.gov/public_disc/110-81.pdf
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 136684 (133K) [application/pdf]
 Saving to: ‘public_disc/110-81.pdf’
 
-     0K .......... .......... .......... .......... .......... 37% 3.01M 0s
-    50K .......... .......... .......... .......... .......... 74% 2.14M 0s
-   100K .......... .......... .......... ...                  100% 1.23M=0.07s
+     0K .......... .......... .......... .......... .......... 37% 4.51M 0s
+    50K .......... .......... .......... .......... .......... 74% 2.95M 0s
+   100K .......... .......... .......... ...                  100% 2.84M=0.04s
 
-2017-01-24 05:28:35 (1.99 MB/s) - ‘public_disc/110-81.pdf’ saved [136684/136684]
+2017-01-24 05:32:21 (3.36 MB/s) - ‘public_disc/110-81.pdf’ saved [136684/136684]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/images/headers/p_finance.jpg
+--2017-01-24 05:32:21--  http://clerk.house.gov/images/headers/p_finance.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 18013 (18K) [image/jpeg]
 Saving to: ‘images/headers/p_finance.jpg’
 
-     0K .......... .......                                    100% 1.16M=0.01s
+     0K .......... .......                                    100% 1.31M=0.01s
 
-2017-01-24 05:28:35 (1.16 MB/s) - ‘images/headers/p_finance.jpg’ saved [18013/18013]
+2017-01-24 05:32:21 (1.31 MB/s) - ‘images/headers/p_finance.jpg’ saved [18013/18013]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/financial-pdfs/2008FD.ZIP
+--2017-01-24 05:32:21--  http://clerk.house.gov/public_disc/financial-pdfs/2008FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 18898 (18K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2008FD.ZIP’
 
-     0K .......... ........                                   100% 4.55M=0.004s
+     0K .......... ........                                   100% 1.93M=0.009s
 
-2017-01-24 05:28:35 (4.55 MB/s) - ‘public_disc/financial-pdfs/2008FD.ZIP’ saved [18898/18898]
+2017-01-24 05:32:21 (1.93 MB/s) - ‘public_disc/financial-pdfs/2008FD.ZIP’ saved [18898/18898]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/financial-pdfs/2009FD.ZIP
+--2017-01-24 05:32:21--  http://clerk.house.gov/public_disc/financial-pdfs/2009FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 21789 (21K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2009FD.ZIP’
 
-     0K .......... .......... .                               100% 1.37M=0.02s
+     0K .......... .......... .                               100% 1.64M=0.01s
 
-2017-01-24 05:28:35 (1.37 MB/s) - ‘public_disc/financial-pdfs/2009FD.ZIP’ saved [21789/21789]
+2017-01-24 05:32:21 (1.64 MB/s) - ‘public_disc/financial-pdfs/2009FD.ZIP’ saved [21789/21789]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/financial-pdfs/2010FD.ZIP
+--2017-01-24 05:32:21--  http://clerk.house.gov/public_disc/financial-pdfs/2010FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 20682 (20K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2010FD.ZIP’
 
-     0K .......... ..........                                 100% 1.24M=0.02s
+     0K .......... ..........                                 100% 1.47M=0.01s
 
-2017-01-24 05:28:35 (1.24 MB/s) - ‘public_disc/financial-pdfs/2010FD.ZIP’ saved [20682/20682]
+2017-01-24 05:32:21 (1.47 MB/s) - ‘public_disc/financial-pdfs/2010FD.ZIP’ saved [20682/20682]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/financial-pdfs/2011FD.ZIP
+--2017-01-24 05:32:21--  http://clerk.house.gov/public_disc/financial-pdfs/2011FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 29195 (29K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2011FD.ZIP’
 
-     0K .......... .......... ........                        100% 1.75M=0.02s
+     0K .......... .......... ........                        100% 2.27M=0.01s
 
-2017-01-24 05:28:35 (1.75 MB/s) - ‘public_disc/financial-pdfs/2011FD.ZIP’ saved [29195/29195]
+2017-01-24 05:32:22 (2.27 MB/s) - ‘public_disc/financial-pdfs/2011FD.ZIP’ saved [29195/29195]
 
---2017-01-24 05:28:35--  http://clerk.house.gov/public_disc/financial-pdfs/2012FD.ZIP
+--2017-01-24 05:32:22--  http://clerk.house.gov/public_disc/financial-pdfs/2012FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 34267 (33K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2012FD.ZIP’
 
-     0K .......... .......... .......... ...                  100% 2.28M=0.01s
+     0K .......... .......... .......... ...                  100% 2.00M=0.02s
 
-2017-01-24 05:28:36 (2.28 MB/s) - ‘public_disc/financial-pdfs/2012FD.ZIP’ saved [34267/34267]
+2017-01-24 05:32:22 (2.00 MB/s) - ‘public_disc/financial-pdfs/2012FD.ZIP’ saved [34267/34267]
 
---2017-01-24 05:28:36--  http://clerk.house.gov/public_disc/financial-pdfs/2013FD.ZIP
+--2017-01-24 05:32:22--  http://clerk.house.gov/public_disc/financial-pdfs/2013FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 45218 (44K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2013FD.ZIP’
 
-     0K .......... .......... .......... .......... ....      100% 3.18M=0.01s
+     0K .......... .......... .......... .......... ....      100% 3.21M=0.01s
 
-2017-01-24 05:28:36 (3.18 MB/s) - ‘public_disc/financial-pdfs/2013FD.ZIP’ saved [45218/45218]
+2017-01-24 05:32:22 (3.21 MB/s) - ‘public_disc/financial-pdfs/2013FD.ZIP’ saved [45218/45218]
 
---2017-01-24 05:28:36--  http://clerk.house.gov/public_disc/financial-pdfs/2014FD.ZIP
+--2017-01-24 05:32:22--  http://clerk.house.gov/public_disc/financial-pdfs/2014FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 717 [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2014FD.ZIP’
 
-     0K                                                       100% 57.0M=0s
+     0K                                                       100%  137M=0s
 
-2017-01-24 05:28:36 (57.0 MB/s) - ‘public_disc/financial-pdfs/2014FD.ZIP’ saved [717/717]
+2017-01-24 05:32:22 (137 MB/s) - ‘public_disc/financial-pdfs/2014FD.ZIP’ saved [717/717]
 
---2017-01-24 05:28:36--  http://clerk.house.gov/public_disc/financial-pdfs/2015FD.ZIP
+--2017-01-24 05:32:22--  http://clerk.house.gov/public_disc/financial-pdfs/2015FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 74913 (73K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2015FD.ZIP’
 
-     0K .......... .......... .......... .......... .......... 68% 4.62M 0s
-    50K .......... .......... ...                             100% 1.53M=0.03s
+     0K .......... .......... .......... .......... .......... 68% 4.82M 0s
+    50K .......... .......... ...                             100% 1.62M=0.02s
 
-2017-01-24 05:28:36 (2.82 MB/s) - ‘public_disc/financial-pdfs/2015FD.ZIP’ saved [74913/74913]
+2017-01-24 05:32:22 (2.96 MB/s) - ‘public_disc/financial-pdfs/2015FD.ZIP’ saved [74913/74913]
 
---2017-01-24 05:28:36--  http://clerk.house.gov/public_disc/financial-pdfs/2016FD.ZIP
+--2017-01-24 05:32:22--  http://clerk.house.gov/public_disc/financial-pdfs/2016FD.ZIP
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 61898 (60K) [application/x-zip-compressed]
 Saving to: ‘public_disc/financial-pdfs/2016FD.ZIP’
 
-     0K .......... .......... .......... .......... .......... 82% 4.72M 0s
-    50K ..........                                            100% 4.86M=0.01s
+     0K .......... .......... .......... .......... .......... 82% 4.69M 0s
+    50K ..........                                            100% 1.13M=0.02s
 
-2017-01-24 05:28:36 (4.75 MB/s) - ‘public_disc/financial-pdfs/2016FD.ZIP’ saved [61898/61898]
+2017-01-24 05:32:22 (3.03 MB/s) - ‘public_disc/financial-pdfs/2016FD.ZIP’ saved [61898/61898]
 
---2017-01-24 05:28:36--  http://clerk.house.gov/public_disc/FD_NewEmployeeExemption.pdf
+--2017-01-24 05:32:22--  http://clerk.house.gov/public_disc/FD_NewEmployeeExemption.pdf
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 651507 (636K) [application/pdf]
 Saving to: ‘public_disc/FD_NewEmployeeExemption.pdf’
 
-     0K .......... .......... .......... .......... ..........  7% 4.61M 0s
-    50K .......... .......... .......... .......... .......... 15% 2.21M 0s
-   100K .......... .......... .......... .......... .......... 23% 2.45M 0s
-   150K .......... .......... .......... .......... .......... 31%  342K 0s
-   200K .......... .......... .......... .......... .......... 39% 2.54M 0s
-   250K .......... .......... .......... .......... .......... 47% 3.25M 0s
-   300K .......... .......... .......... .......... .......... 55%  397M 0s
-   350K .......... .......... .......... .......... .......... 62%  323M 0s
-   400K .......... .......... .......... .......... .......... 70% 1.04M 0s
-   450K .......... .......... .......... .......... .......... 78% 1.16M 0s
-   500K .......... .......... .......... .......... .......... 86% 1.39M 0s
-   550K .......... .......... .......... .......... .......... 94%  995K 0s
-   600K .......... .......... .......... ......               100%  581K=0.5s
+     0K .......... .......... .......... .......... ..........  7% 4.88M 0s
+    50K .......... .......... .......... .......... .......... 15% 2.09M 0s
+   100K .......... .......... .......... .......... .......... 23% 1.12M 0s
+   150K .......... .......... .......... .......... .......... 31% 2.16M 0s
+   200K .......... .......... .......... .......... .......... 39% 1.76M 0s
+   250K .......... .......... .......... .......... .......... 47% 1.17M 0s
+   300K .......... .......... .......... .......... .......... 55% 2.46M 0s
+   350K .......... .......... .......... .......... .......... 62% 2.06M 0s
+   400K .......... .......... .......... .......... .......... 70% 1.09M 0s
+   450K .......... .......... .......... .......... .......... 78% 2.53M 0s
+   500K .......... .......... .......... .......... .......... 86% 1016K 0s
+   550K .......... .......... .......... .......... .......... 94% 1.78M 0s
+   600K .......... .......... .......... ......               100% 2.29M=0.4s
 
-2017-01-24 05:28:37 (1.32 MB/s) - ‘public_disc/FD_NewEmployeeExemption.pdf’ saved [651507/651507]
+2017-01-24 05:32:23 (1.68 MB/s) - ‘public_disc/FD_NewEmployeeExemption.pdf’ saved [651507/651507]
 
---2017-01-24 05:28:37--  http://clerk.house.gov/public_disc/FD_PrincipalDesignation.pdf
+--2017-01-24 05:32:23--  http://clerk.house.gov/public_disc/FD_PrincipalDesignation.pdf
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 510006 (498K) [application/pdf]
 Saving to: ‘public_disc/FD_PrincipalDesignation.pdf’
 
-     0K .......... .......... .......... .......... .......... 10% 3.55M 0s
-    50K .......... .......... .......... .......... .......... 20%  763K 0s
-   100K .......... .......... .......... .......... .......... 30% 2.48M 0s
-   150K .......... .......... .......... .......... .......... 40% 3.14M 0s
-   200K .......... .......... .......... .......... .......... 50%  995K 0s
-   250K .......... .......... .......... .......... .......... 60% 2.06M 0s
-   300K .......... .......... .......... .......... .......... 70% 2.72M 0s
-   350K .......... .......... .......... .......... .......... 80% 1.03M 0s
-   400K .......... .......... .......... .......... .......... 90% 1.68M 0s
-   450K .......... .......... .......... .......... ........  100% 1.72M=0.3s
+     0K .......... .......... .......... .......... .......... 10% 4.20M 0s
+    50K .......... .......... .......... .......... .......... 20% 2.47M 0s
+   100K .......... .......... .......... .......... .......... 30% 2.77M 0s
+   150K .......... .......... .......... .......... .......... 40%  916K 0s
+   200K .......... .......... .......... .......... .......... 50% 3.34M 0s
+   250K .......... .......... .......... .......... .......... 60% 2.44M 0s
+   300K .......... .......... .......... .......... .......... 70% 1.06M 0s
+   350K .......... .......... .......... .......... .......... 80% 2.24M 0s
+   400K .......... .......... .......... .......... .......... 90% 2.04M 0s
+   450K .......... .......... .......... .......... ........  100% 1.18M=0.3s
 
-2017-01-24 05:28:37 (1.57 MB/s) - ‘public_disc/FD_PrincipalDesignation.pdf’ saved [510006/510006]
+2017-01-24 05:32:23 (1.80 MB/s) - ‘public_disc/FD_PrincipalDesignation.pdf’ saved [510006/510006]
 
---2017-01-24 05:28:37--  http://clerk.house.gov/public_disc/FD_TerminationExemption.pdf
+--2017-01-24 05:32:23--  http://clerk.house.gov/public_disc/FD_TerminationExemption.pdf
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 593211 (579K) [application/pdf]
 Saving to: ‘public_disc/FD_TerminationExemption.pdf’
 
-     0K .......... .......... .......... .......... ..........  8% 4.03M 0s
-    50K .......... .......... .......... .......... .......... 17% 2.11M 0s
-   100K .......... .......... .......... .......... .......... 25%  857K 0s
-   150K .......... .......... .......... .......... .......... 34% 1.81M 0s
-   200K .......... .......... .......... .......... .......... 43% 4.57M 0s
-   250K .......... .......... .......... .......... .......... 51%  951K 0s
-   300K .......... .......... .......... .......... .......... 60% 2.40M 0s
-   350K .......... .......... .......... .......... .......... 69% 3.91M 0s
-   400K .......... .......... .......... .......... .......... 77%  860K 0s
-   450K .......... .......... .......... .......... .......... 86% 2.20M 0s
-   500K .......... .......... .......... .......... .......... 94% 1.42M 0s
-   550K .......... .......... .........                       100%  903K=0.4s
+     0K .......... .......... .......... .......... ..........  8% 3.67M 0s
+    50K .......... .......... .......... .......... .......... 17% 2.41M 0s
+   100K .......... .......... .......... .......... .......... 25% 2.16M 0s
+   150K .......... .......... .......... .......... .......... 34%  956K 0s
+   200K .......... .......... .......... .......... .......... 43% 3.28M 0s
+   250K .......... .......... .......... .......... .......... 51% 2.85M 0s
+   300K .......... .......... .......... .......... .......... 60%  998K 0s
+   350K .......... .......... .......... .......... .......... 69% 2.81M 0s
+   400K .......... .......... .......... .......... .......... 77% 2.91M 0s
+   450K .......... .......... .......... .......... .......... 86%  942K 0s
+   500K .......... .......... .......... .......... .......... 94% 3.20M 0s
+   550K .......... .......... .........                       100% 3.71M=0.3s
 
-2017-01-24 05:28:38 (1.56 MB/s) - ‘public_disc/FD_TerminationExemption.pdf’ saved [593211/593211]
+2017-01-24 05:32:23 (1.88 MB/s) - ‘public_disc/FD_TerminationExemption.pdf’ saved [593211/593211]
 
---2017-01-24 05:28:38--  http://clerk.house.gov/public_disc/FD_CandidateForm.pdf
+--2017-01-24 05:32:23--  http://clerk.house.gov/public_disc/FD_CandidateForm.pdf
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 582212 (569K) [application/pdf]
 Saving to: ‘public_disc/FD_CandidateForm.pdf’
 
-     0K .......... .......... .......... .......... ..........  8% 5.12M 0s
-    50K .......... .......... .......... .......... .......... 17% 2.66M 0s
-   100K .......... .......... .......... .......... .......... 26% 2.26M 0s
-   150K .......... .......... .......... .......... .......... 35% 1.01M 0s
-   200K .......... .......... .......... .......... .......... 43% 2.47M 0s
-   250K .......... .......... .......... .......... .......... 52% 2.74M 0s
-   300K .......... .......... .......... .......... .......... 61% 1003K 0s
-   350K .......... .......... .......... .......... .......... 70% 1.41M 0s
-   400K .......... .......... .......... .......... .......... 79% 3.56M 0s
-   450K .......... .......... .......... .......... .......... 87% 1.16M 0s
-   500K .......... .......... .......... .......... .......... 96% 1.84M 0s
-   550K .......... ........                                   100% 1.28M=0.3s
+     0K .......... .......... .......... .......... ..........  8% 5.04M 0s
+    50K .......... .......... .......... .......... .......... 17% 2.23M 0s
+   100K .......... .......... .......... .......... .......... 26% 2.50M 0s
+   150K .......... .......... .......... .......... .......... 35%  306K 0s
+   200K .......... .......... .......... .......... .......... 43%  218M 0s
+   250K .......... .......... .......... .......... .......... 52% 15.7M 0s
+   300K .......... .......... .......... .......... .......... 61% 13.7M 0s
+   350K .......... .......... .......... .......... .......... 70%  697K 0s
+   400K .......... .......... .......... .......... .......... 79% 2.23M 0s
+   450K .......... .......... .......... .......... .......... 87%  637K 0s
+   500K .......... .......... .......... .......... .......... 96% 1.68M 0s
+   550K .......... ........                                   100%  284K=0.5s
 
-2017-01-24 05:28:38 (1.76 MB/s) - ‘public_disc/FD_CandidateForm.pdf’ saved [582212/582212]
+2017-01-24 05:32:24 (1.14 MB/s) - ‘public_disc/FD_CandidateForm.pdf’ saved [582212/582212]
 
---2017-01-24 05:28:38--  http://clerk.house.gov/public_disc/financial-search.aspx
+--2017-01-24 05:32:24--  http://clerk.house.gov/public_disc/financial-search.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 19918 (19K) [text/html]
 Saving to: ‘public_disc/financial-search.aspx.html’
 
-     0K .......... .........                                  100%  828K=0.02s
+     0K .......... .........                                  100% 2.10M=0.009s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:38 (828 KB/s) - ‘public_disc/financial-search.aspx.html’ saved [19918/19918]
+2017-01-24 05:32:24 (2.10 MB/s) - ‘public_disc/financial-search.aspx.html’ saved [19918/19918]
 
---2017-01-24 05:28:38--  http://clerk.house.gov/images/headers/p_foreign.jpg
+--2017-01-24 05:32:24--  http://clerk.house.gov/images/headers/p_foreign.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 16803 (16K) [image/jpeg]
 Saving to: ‘images/headers/p_foreign.jpg’
 
-     0K .......... ......                                     100% 1.57M=0.01s
+     0K .......... ......                                     100% 1.28M=0.01s
 
-2017-01-24 05:28:38 (1.57 MB/s) - ‘images/headers/p_foreign.jpg’ saved [16803/16803]
+2017-01-24 05:32:24 (1.28 MB/s) - ‘images/headers/p_foreign.jpg’ saved [16803/16803]
 
---2017-01-24 05:28:38--  http://clerk.house.gov/images/headers/p_franked.jpg
+--2017-01-24 05:32:24--  http://clerk.house.gov/images/headers/p_franked.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 16078 (16K) [image/jpeg]
 Saving to: ‘images/headers/p_franked.jpg’
 
-     0K .......... .....                                      100% 1.32M=0.01s
+     0K .......... .....                                      100%  911K=0.02s
 
-2017-01-24 05:28:38 (1.32 MB/s) - ‘images/headers/p_franked.jpg’ saved [16078/16078]
+2017-01-24 05:32:24 (911 KB/s) - ‘images/headers/p_franked.jpg’ saved [16078/16078]
 
---2017-01-24 05:28:38--  http://clerk.house.gov/images/headers/p_legal.jpg
+--2017-01-24 05:32:24--  http://clerk.house.gov/images/headers/p_legal.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 18394 (18K) [image/jpeg]
 Saving to: ‘images/headers/p_legal.jpg’
 
-     0K .......... .......                                    100% 1.15M=0.02s
+     0K .......... .......                                    100% 1.28M=0.01s
 
-2017-01-24 05:28:39 (1.15 MB/s) - ‘images/headers/p_legal.jpg’ saved [18394/18394]
+2017-01-24 05:32:24 (1.28 MB/s) - ‘images/headers/p_legal.jpg’ saved [18394/18394]
 
---2017-01-24 05:28:39--  http://clerk.house.gov/images/headers/p_ethics.jpg
+--2017-01-24 05:32:24--  http://clerk.house.gov/images/headers/p_ethics.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 37190 (36K) [image/jpeg]
 Saving to: ‘images/headers/p_ethics.jpg’
 
-     0K .......... .......... .......... ......               100% 2.63M=0.01s
+     0K .......... .......... .......... ......               100% 2.08M=0.02s
 
-2017-01-24 05:28:39 (2.63 MB/s) - ‘images/headers/p_ethics.jpg’ saved [37190/37190]
+2017-01-24 05:32:25 (2.08 MB/s) - ‘images/headers/p_ethics.jpg’ saved [37190/37190]
 
---2017-01-24 05:28:39--  http://clerk.house.gov/images/headers/p_post.jpg
+--2017-01-24 05:32:25--  http://clerk.house.gov/images/headers/p_post.jpg
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 23425 (23K) [image/jpeg]
 Saving to: ‘images/headers/p_post.jpg’
 
-     0K .......... .......... ..                              100% 1.94M=0.01s
+     0K .......... .......... ..                              100% 1.38M=0.02s
 
-2017-01-24 05:28:39 (1.94 MB/s) - ‘images/headers/p_post.jpg’ saved [23425/23425]
+2017-01-24 05:32:25 (1.38 MB/s) - ‘images/headers/p_post.jpg’ saved [23425/23425]
 
---2017-01-24 05:28:39--  http://clerk.house.gov/public_disc/post-employment/PostEmployment.zip
+--2017-01-24 05:32:25--  http://clerk.house.gov/public_disc/post-employment/PostEmployment.zip
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 68616 (67K) [application/x-zip-compressed]
 Saving to: ‘public_disc/post-employment/PostEmployment.zip’
 
-     0K .......... .......... .......... .......... .......... 74% 9.18M 0s
-    50K .......... .......                                    100% 1.44M=0.02s
+     0K .......... .......... .......... .......... .......... 74% 4.40M 0s
+    50K .......... .......                                    100% 2.22M=0.02s
 
-2017-01-24 05:28:39 (3.88 MB/s) - ‘public_disc/post-employment/PostEmployment.zip’ saved [68616/68616]
+2017-01-24 05:32:25 (3.52 MB/s) - ‘public_disc/post-employment/PostEmployment.zip’ saved [68616/68616]
 
---2017-01-24 05:28:39--  http://clerk.house.gov/public_disc/employment.aspx
+--2017-01-24 05:32:25--  http://clerk.house.gov/public_disc/employment.aspx
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 13104 (13K) [text/html]
 Saving to: ‘public_disc/employment.aspx.html’
 
-     0K .......... ..                                         100%  974K=0.01s
+     0K .......... ..                                         100%  869K=0.01s
 
-Last-modified header missing -- time-stamps turned off.
-2017-01-24 05:28:39 (974 KB/s) - ‘public_disc/employment.aspx.html’ saved [13104/13104]
+2017-01-24 05:32:25 (869 KB/s) - ‘public_disc/employment.aspx.html’ saved [13104/13104]
 
---2017-01-24 05:28:39--  http://clerk.house.gov/WebResource.axd?d=09UBlBFOjRYUoj4QycQUfj1hx_BPxdCXNFmOEn0O5qUXMC_4DFg6ojy-7Qh2QLVRa6crlSYZEK5sIuoZJm1HSvXqAgoOciu4wIDPxw9GcFBZOFZbS-TLX-UvUhRA9vr1x2ohZPwtd7arW5owQGHJLOjCxKM1&t=634153289862217808
+--2017-01-24 05:32:25--  http://clerk.house.gov/WebResource.axd?d=09UBlBFOjRYUoj4QycQUfj1hx_BPxdCXNFmOEn0O5qUXMC_4DFg6ojy-7Qh2QLVRa6crlSYZEK5sIuoZJm1HSvXqAgoOciu4wIDPxw9GcFBZOFZbS-TLX-UvUhRA9vr1x2ohZPwtd7arW5owQGHJLOjCxKM1&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 3419 (3.3K) [text/css]
 Saving to: ‘WebResource.axd?d=09UBlBFOjRYUoj4QycQUfj1hx_BPxdCXNFmOEn0O5qUXMC_4DFg6ojy-7Qh2QLVRa6crlSYZEK5sIuoZJm1HSvXqAgoOciu4wIDPxw9GcFBZOFZbS-TLX-UvUhRA9vr1x2ohZPwtd7arW5owQGHJLOjCxKM1&t=634153289862217808.css’
 
-     0K ...                                                   100%  288K=0.01s
+     0K ...                                                   100%  280K=0.01s
 
-2017-01-24 05:28:39 (288 KB/s) - ‘WebResource.axd?d=09UBlBFOjRYUoj4QycQUfj1hx_BPxdCXNFmOEn0O5qUXMC_4DFg6ojy-7Qh2QLVRa6crlSYZEK5sIuoZJm1HSvXqAgoOciu4wIDPxw9GcFBZOFZbS-TLX-UvUhRA9vr1x2ohZPwtd7arW5owQGHJLOjCxKM1&t=634153289862217808.css’ saved [3419/3419]
+2017-01-24 05:32:25 (280 KB/s) - ‘WebResource.axd?d=09UBlBFOjRYUoj4QycQUfj1hx_BPxdCXNFmOEn0O5qUXMC_4DFg6ojy-7Qh2QLVRa6crlSYZEK5sIuoZJm1HSvXqAgoOciu4wIDPxw9GcFBZOFZbS-TLX-UvUhRA9vr1x2ohZPwtd7arW5owQGHJLOjCxKM1&t=634153289862217808.css’ saved [3419/3419]
 
---2017-01-24 05:28:39--  http://clerk.house.gov/ScriptResource.axd?d=Nlks9OjnoTaNhqvj6ye344OJsq4-fj8kHOMk6Qi0iUxq9aCp8e-mca_K3ZUa6csQnUCltKw7p0_o14B86lHZPHvwDK21kzlJw7LAMZ5CvT4_F-H1RryzlrCL4fM9ust1rM_-Rw2&t=ffffffffec54f2d7
+--2017-01-24 05:32:25--  http://clerk.house.gov/ScriptResource.axd?d=Nlks9OjnoTaNhqvj6ye344OJsq4-fj8kHOMk6Qi0iUxq9aCp8e-mca_K3ZUa6csQnUCltKw7p0_o14B86lHZPHvwDK21kzlJw7LAMZ5CvT4_F-H1RryzlrCL4fM9ust1rM_-Rw2&t=ffffffffec54f2d7
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 27410 (27K) [application/x-javascript]
 Saving to: ‘ScriptResource.axd?d=Nlks9OjnoTaNhqvj6ye344OJsq4-fj8kHOMk6Qi0iUxq9aCp8e-mca_K3ZUa6csQnUCltKw7p0_o14B86lHZPHvwDK21kzlJw7LAMZ5CvT4_F-H1RryzlrCL4fM9ust1rM_-Rw2&t=ffffffffec54f2d7’
 
-     0K .......... .......... ......                          100%  523K=0.05s
+     0K .......... .......... ......                          100% 2.04M=0.01s
 
-2017-01-24 05:28:39 (523 KB/s) - ‘ScriptResource.axd?d=Nlks9OjnoTaNhqvj6ye344OJsq4-fj8kHOMk6Qi0iUxq9aCp8e-mca_K3ZUa6csQnUCltKw7p0_o14B86lHZPHvwDK21kzlJw7LAMZ5CvT4_F-H1RryzlrCL4fM9ust1rM_-Rw2&t=ffffffffec54f2d7’ saved [27410/27410]
+2017-01-24 05:32:25 (2.04 MB/s) - ‘ScriptResource.axd?d=Nlks9OjnoTaNhqvj6ye344OJsq4-fj8kHOMk6Qi0iUxq9aCp8e-mca_K3ZUa6csQnUCltKw7p0_o14B86lHZPHvwDK21kzlJw7LAMZ5CvT4_F-H1RryzlrCL4fM9ust1rM_-Rw2&t=ffffffffec54f2d7’ saved [27410/27410]
 
 The name is too long, 364 chars total.
 Trying to shorten...
 New name is giftTravel-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e79.
---2017-01-24 05:28:39--  http://clerk.house.gov/public_disc/giftTravel-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3afcf0e993%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3a698129cf%3afb9b4c57%3accb96cf9
+--2017-01-24 05:32:25--  http://clerk.house.gov/public_disc/giftTravel-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3afcf0e993%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3a698129cf%3afb9b4c57%3accb96cf9
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 126026 (123K) [application/x-javascript]
 Saving to: ‘public_disc/giftTravel-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e79’
 
-     0K .......... .......... .......... .......... .......... 40% 1.14M 0s
-    50K .......... .......... .......... .......... .......... 81%  738K 0s
-   100K .......... .......... ...                             100%  943K=0.1s
+     0K .......... .......... .......... .......... .......... 40% 3.72M 0s
+    50K .......... .......... .......... .......... .......... 81%  627K 0s
+   100K .......... .......... ...                             100% 1.89M=0.1s
 
-2017-01-24 05:28:40 (912 KB/s) - ‘public_disc/giftTravel-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e79’ saved [126026/126026]
+2017-01-24 05:32:26 (1.15 MB/s) - ‘public_disc/giftTravel-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e79’ saved [126026/126026]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=zF-ZeadDpDNyUUb7yiOOlwLh5jFeRw9qceW6IeyLvxeWA-Oxl9w0Xud-KnoFq0n8N_onMQIuVeWeqArE5eqW4TASrokCeKiIuihvQavHSfzi5pWxmo_vNRO_w59-nvLl2HoQlg2&t=634153289862217808
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/headers/helpheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21665 (21K) [image/jpeg]
+Saving to: ‘images/headers/helpheader.jpg’
+
+     0K .......... .......... .                               100% 1.29M=0.02s
+
+2017-01-24 05:32:26 (1.29 MB/s) - ‘images/headers/helpheader.jpg’ saved [21665/21665]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/floorsummary/help.aspx
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13026 (13K) [text/html]
+Saving to: ‘floorsummary/help.aspx.html’
+
+     0K .......... ..                                         100%  890K=0.01s
+
+2017-01-24 05:32:26 (890 KB/s) - ‘floorsummary/help.aspx.html’ saved [13026/13026]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/headers/sitemapheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20492 (20K) [image/jpeg]
+Saving to: ‘images/headers/sitemapheader.jpg’
+
+     0K .......... ..........                                 100% 1.24M=0.02s
+
+2017-01-24 05:32:26 (1.24 MB/s) - ‘images/headers/sitemapheader.jpg’ saved [20492/20492]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/headers/newheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 19649 (19K) [image/jpeg]
+Saving to: ‘images/headers/newheader.jpg’
+
+     0K .......... .........                                  100% 1.15M=0.02s
+
+2017-01-24 05:32:26 (1.15 MB/s) - ‘images/headers/newheader.jpg’ saved [19649/19649]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/headers/a_dutiesheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 27980 (27K) [image/jpeg]
+Saving to: ‘images/headers/a_dutiesheader.jpg’
+
+     0K .......... .......... .......                         100% 1.56M=0.02s
+
+2017-01-24 05:32:26 (1.56 MB/s) - ‘images/headers/a_dutiesheader.jpg’ saved [27980/27980]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/headers/a_officesheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20819 (20K) [image/jpeg]
+Saving to: ‘images/headers/a_officesheader.jpg’
+
+     0K .......... ..........                                 100% 1.06M=0.02s
+
+2017-01-24 05:32:26 (1.06 MB/s) - ‘images/headers/a_officesheader.jpg’ saved [20819/20819]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/buttons/plus.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 423 [image/jpeg]
+Saving to: ‘images/buttons/plus.jpg’
+
+     0K                                                       100% 44.8M=0s
+
+2017-01-24 05:32:26 (44.8 MB/s) - ‘images/buttons/plus.jpg’ saved [423/423]
+
+--2017-01-24 05:32:26--  http://clerk.house.gov/images/headers/a_historyheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21364 (21K) [image/jpeg]
+Saving to: ‘images/headers/a_historyheader.jpg’
+
+     0K .......... ..........                                 100% 1.62M=0.01s
+
+2017-01-24 05:32:27 (1.62 MB/s) - ‘images/headers/a_historyheader.jpg’ saved [21364/21364]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/photos/haas-med.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23223 (23K) [image/jpeg]
+Saving to: ‘images/photos/haas-med.jpg’
+
+     0K .......... .......... ..                              100% 1.67M=0.01s
+
+2017-01-24 05:32:27 (1.67 MB/s) - ‘images/photos/haas-med.jpg’ saved [23223/23223]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/headers/a_press_releases.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20302 (20K) [image/gif]
+Saving to: ‘images/headers/a_press_releases.gif’
+
+     0K .......... .........                                  100% 1.28M=0.02s
+
+2017-01-24 05:32:27 (1.28 MB/s) - ‘images/headers/a_press_releases.gif’ saved [20302/20302]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/headers/a_aboutheader-chamber.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16182 (16K) [image/jpeg]
+Saving to: ‘images/headers/a_aboutheader-chamber.jpg’
+
+     0K .......... .....                                      100% 1.05M=0.01s
+
+2017-01-24 05:32:27 (1.05 MB/s) - ‘images/headers/a_aboutheader-chamber.jpg’ saved [16182/16182]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/speaker-ryan.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 33392 (33K) [image/jpeg]
+Saving to: ‘images/speaker-ryan.jpg’
+
+     0K .......... .......... .......... ..                   100% 2.54M=0.01s
+
+2017-01-24 05:32:27 (2.54 MB/s) - ‘images/speaker-ryan.jpg’ saved [33392/33392]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/chamber-brochure.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 80064 (78K) [image/jpeg]
+Saving to: ‘images/chamber-brochure.jpg’
+
+     0K .......... .......... .......... .......... .......... 63% 4.09M 0s
+    50K .......... .......... ........                        100% 1.41M=0.03s
+
+2017-01-24 05:32:27 (2.43 MB/s) - ‘images/chamber-brochure.jpg’ saved [80064/80064]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/WebResource.axd?d=zF-ZeadDpDNyUUb7yiOOlwLh5jFeRw9qceW6IeyLvxeWA-Oxl9w0Xud-KnoFq0n8N_onMQIuVeWeqArE5eqW4TASrokCeKiIuihvQavHSfzi5pWxmo_vNRO_w59-nvLl2HoQlg2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 3895 (3.8K) [text/css]
 Saving to: ‘WebResource.axd?d=zF-ZeadDpDNyUUb7yiOOlwLh5jFeRw9qceW6IeyLvxeWA-Oxl9w0Xud-KnoFq0n8N_onMQIuVeWeqArE5eqW4TASrokCeKiIuihvQavHSfzi5pWxmo_vNRO_w59-nvLl2HoQlg2&t=634153289862217808.css’
 
-     0K ...                                                   100%  311K=0.01s
+     0K ...                                                   100%  312K=0.01s
 
-2017-01-24 05:28:40 (311 KB/s) - ‘WebResource.axd?d=zF-ZeadDpDNyUUb7yiOOlwLh5jFeRw9qceW6IeyLvxeWA-Oxl9w0Xud-KnoFq0n8N_onMQIuVeWeqArE5eqW4TASrokCeKiIuihvQavHSfzi5pWxmo_vNRO_w59-nvLl2HoQlg2&t=634153289862217808.css’ saved [3895/3895]
+2017-01-24 05:32:27 (312 KB/s) - ‘WebResource.axd?d=zF-ZeadDpDNyUUb7yiOOlwLh5jFeRw9qceW6IeyLvxeWA-Oxl9w0Xud-KnoFq0n8N_onMQIuVeWeqArE5eqW4TASrokCeKiIuihvQavHSfzi5pWxmo_vNRO_w59-nvLl2HoQlg2&t=634153289862217808.css’ saved [3895/3895]
+
+The name is too long, 297 chars total.
+Trying to shorten...
+New name is floor.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-.
+--2017-01-24 05:32:27--  http://clerk.house.gov/floorsummary/floor.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3af9cec9bc%3aa0b0f951%3aa67c2700
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 56901 (56K) [application/x-javascript]
+Saving to: ‘floorsummary/floor.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-’
+
+     0K .......... .......... .......... .......... .......... 89% 4.66M 0s
+    50K .....                                                 100% 2.20M=0.01s
+
+2017-01-24 05:32:27 (4.19 MB/s) - ‘floorsummary/floor.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-’ saved [56901/56901]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/headers/l_legvotesheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22157 (22K) [image/jpeg]
+Saving to: ‘images/headers/l_legvotesheader.jpg’
+
+     0K .......... .......... .                               100% 1.37M=0.02s
+
+2017-01-24 05:32:27 (1.37 MB/s) - ‘images/headers/l_legvotesheader.jpg’ saved [22157/22157]
+
+--2017-01-24 05:32:27--  http://clerk.house.gov/images/headers/m_congheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22214 (22K) [image/jpeg]
+Saving to: ‘images/headers/m_congheader.jpg’
+
+     0K .......... .......... .                               100% 1.67M=0.01s
+
+2017-01-24 05:32:28 (1.67 MB/s) - ‘images/headers/m_congheader.jpg’ saved [22214/22214]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/spacer.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘images/spacer.gif’
+
+     0K                                                       100% 5.86M=0s
+
+2017-01-24 05:32:28 (5.86 MB/s) - ‘images/spacer.gif’ saved [43/43]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/m_curvacancies.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16064 (16K) [image/jpeg]
+Saving to: ‘images/headers/m_curvacancies.jpg’
+
+     0K .......... .....                                      100% 1.19M=0.01s
+
+2017-01-24 05:32:28 (1.19 MB/s) - ‘images/headers/m_curvacancies.jpg’ saved [16064/16064]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/m_leaderheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22253 (22K) [image/jpeg]
+Saving to: ‘images/headers/m_leaderheader.jpg’
+
+     0K .......... .......... .                               100% 1.36M=0.02s
+
+2017-01-24 05:32:28 (1.36 MB/s) - ‘images/headers/m_leaderheader.jpg’ saved [22253/22253]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/m_electheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22021 (22K) [image/jpeg]
+Saving to: ‘images/headers/m_electheader.jpg’
+
+     0K .......... .......... .                               100% 1.36M=0.02s
+
+2017-01-24 05:32:28 (1.36 MB/s) - ‘images/headers/m_electheader.jpg’ saved [22021/22021]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/m_memheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20071 (20K) [image/jpeg]
+Saving to: ‘images/headers/m_memheader.jpg’
+
+     0K .......... .........                                  100% 1.45M=0.01s
+
+2017-01-24 05:32:28 (1.45 MB/s) - ‘images/headers/m_memheader.jpg’ saved [20071/20071]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/minus.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 974 [image/gif]
+Saving to: ‘images/minus.gif’
+
+     0K                                                       100%  103M=0s
+
+2017-01-24 05:32:28 (103 MB/s) - ‘images/minus.gif’ saved [974/974]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/c_comfaqsheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 19758 (19K) [image/jpeg]
+Saving to: ‘images/headers/c_comfaqsheader.jpg’
+
+     0K .......... .........                                  100% 1.22M=0.02s
+
+2017-01-24 05:32:28 (1.22 MB/s) - ‘images/headers/c_comfaqsheader.jpg’ saved [19758/19758]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/l_housedocheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 22032 (22K) [image/jpeg]
+Saving to: ‘images/headers/l_housedocheader.jpg’
+
+     0K .......... .......... .                               100% 1.76M=0.01s
+
+2017-01-24 05:32:28 (1.76 MB/s) - ‘images/headers/l_housedocheader.jpg’ saved [22032/22032]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/l_legprocessheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23987 (23K) [image/jpeg]
+Saving to: ‘images/headers/l_legprocessheader.jpg’
+
+     0K .......... .......... ...                             100% 1.72M=0.01s
+
+2017-01-24 05:32:28 (1.72 MB/s) - ‘images/headers/l_legprocessheader.jpg’ saved [23987/23987]
+
+--2017-01-24 05:32:28--  http://clerk.house.gov/images/headers/l_legfaqsheader.jpg
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 21393 (21K) [image/jpeg]
+Saving to: ‘images/headers/l_legfaqsheader.jpg’
+
+     0K .......... ..........                                 100% 1.30M=0.02s
+
+2017-01-24 05:32:29 (1.30 MB/s) - ‘images/headers/l_legfaqsheader.jpg’ saved [21393/21393]
 
 The name is too long, 308 chars total.
 Trying to shorten...
 New name is financial-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793.
---2017-01-24 05:28:40--  http://clerk.house.gov/public_disc/financial-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3af9cec9bc%3aa0b0f951%3aa67c2700
+--2017-01-24 05:32:29--  http://clerk.house.gov/public_disc/financial-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3af9cec9bc%3aa0b0f951%3aa67c2700
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 56901 (56K) [application/x-javascript]
 Saving to: ‘public_disc/financial-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793’
 
-     0K .......... .......... .......... .......... .......... 89% 2.08M 0s
-    50K .....                                                 100%  419K=0.04s
+     0K .......... .......... .......... .......... .......... 89% 5.11M 0s
+    50K .....                                                 100%  429K=0.02s
 
-2017-01-24 05:28:40 (1.47 MB/s) - ‘public_disc/financial-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793’ saved [56901/56901]
+2017-01-24 05:32:29 (2.41 MB/s) - ‘public_disc/financial-search.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793’ saved [56901/56901]
 
 The name is too long, 357 chars total.
 Trying to shorten...
 New name is employment.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-.
---2017-01-24 05:28:40--  http://clerk.house.gov/public_disc/employment.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3afcf0e993%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3a698129cf%3afb9b4c57%3accb96cf9
+--2017-01-24 05:32:29--  http://clerk.house.gov/public_disc/employment.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3afcf0e993%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3a698129cf%3afb9b4c57%3accb96cf9
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 126026 (123K) [application/x-javascript]
 Saving to: ‘public_disc/employment.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-’
 
-     0K .......... .......... .......... .......... .......... 40% 1.05M 0s
-    50K .......... .......... .......... .......... .......... 81% 1.39M 0s
-   100K .......... .......... ...                             100%  902K=0.1s
+     0K .......... .......... .......... .......... .......... 40% 4.97M 0s
+    50K .......... .......... .......... .......... .......... 81% 2.07M 0s
+   100K .......... .......... ...                             100%  317K=0.1s
 
-2017-01-24 05:28:40 (1.12 MB/s) - ‘public_disc/employment.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-’ saved [126026/126026]
+2017-01-24 05:32:29 (1.13 MB/s) - ‘public_disc/employment.aspx?_TSM_HiddenField_=ctl00_cphMain_ToolkitScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-’ saved [126026/126026]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=zBo_I6ieLPplpwDwK7hNbFUG1BGL89jIvQAdJOBAyaaJ-6JCOExJtYgoY3CiWVTNUhgjmz79WeDYunWniKSYF9g1mtenCS7bW0mAWSoyw8gU-3XIZFm0v8HrEwQMW9_N-fOvxQ2&t=634153289862217808
+--2017-01-24 05:32:29--  http://clerk.house.gov/WebResource.axd?d=zBo_I6ieLPplpwDwK7hNbFUG1BGL89jIvQAdJOBAyaaJ-6JCOExJtYgoY3CiWVTNUhgjmz79WeDYunWniKSYF9g1mtenCS7bW0mAWSoyw8gU-3XIZFm0v8HrEwQMW9_N-fOvxQ2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 73 [image/gif]
 Saving to: ‘WebResource.axd?d=zBo_I6ieLPplpwDwK7hNbFUG1BGL89jIvQAdJOBAyaaJ-6JCOExJtYgoY3CiWVTNUhgjmz79WeDYunWniKSYF9g1mtenCS7bW0mAWSoyw8gU-3XIZFm0v8HrEwQMW9_N-fOvxQ2&t=634153289862217808’
 
-     0K                                                       100% 3.66M=0s
+     0K                                                       100% 8.70M=0s
 
-2017-01-24 05:28:40 (3.66 MB/s) - ‘WebResource.axd?d=zBo_I6ieLPplpwDwK7hNbFUG1BGL89jIvQAdJOBAyaaJ-6JCOExJtYgoY3CiWVTNUhgjmz79WeDYunWniKSYF9g1mtenCS7bW0mAWSoyw8gU-3XIZFm0v8HrEwQMW9_N-fOvxQ2&t=634153289862217808’ saved [73/73]
+2017-01-24 05:32:29 (8.70 MB/s) - ‘WebResource.axd?d=zBo_I6ieLPplpwDwK7hNbFUG1BGL89jIvQAdJOBAyaaJ-6JCOExJtYgoY3CiWVTNUhgjmz79WeDYunWniKSYF9g1mtenCS7bW0mAWSoyw8gU-3XIZFm0v8HrEwQMW9_N-fOvxQ2&t=634153289862217808’ saved [73/73]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=VxTsl5fTK6yWzJXIZYXtv4BWehsRdJwGbKkk_DkpPBcXCsb-EUb9VVCoC3r57KfDmQ2HR92nn2aKLCDebYuoQr9wHkc17pgvgaic0mjfqeJVA9HuL9-SlIOybYPG4yaSZmhE1A2&t=634153289862217808
+--2017-01-24 05:32:29--  http://clerk.house.gov/WebResource.axd?d=VxTsl5fTK6yWzJXIZYXtv4BWehsRdJwGbKkk_DkpPBcXCsb-EUb9VVCoC3r57KfDmQ2HR92nn2aKLCDebYuoQr9wHkc17pgvgaic0mjfqeJVA9HuL9-SlIOybYPG4yaSZmhE1A2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 73 [image/gif]
@@ -624,9 +1698,30 @@ Saving to: ‘WebResource.axd?d=VxTsl5fTK6yWzJXIZYXtv4BWehsRdJwGbKkk_DkpPBcXCsb-
 
      0K                                                       100% 6.33M=0s
 
-2017-01-24 05:28:40 (6.33 MB/s) - ‘WebResource.axd?d=VxTsl5fTK6yWzJXIZYXtv4BWehsRdJwGbKkk_DkpPBcXCsb-EUb9VVCoC3r57KfDmQ2HR92nn2aKLCDebYuoQr9wHkc17pgvgaic0mjfqeJVA9HuL9-SlIOybYPG4yaSZmhE1A2&t=634153289862217808’ saved [73/73]
+2017-01-24 05:32:29 (6.33 MB/s) - ‘WebResource.axd?d=VxTsl5fTK6yWzJXIZYXtv4BWehsRdJwGbKkk_DkpPBcXCsb-EUb9VVCoC3r57KfDmQ2HR92nn2aKLCDebYuoQr9wHkc17pgvgaic0mjfqeJVA9HuL9-SlIOybYPG4yaSZmhE1A2&t=634153289862217808’ saved [73/73]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=hx_jbAnbSHwEgqeovuaZbukOCH1qm7Lfd63JuDqwfuyoyvqnVaBz3SADXTBPJDFn3pocUmPaWiydiZ2HXyjlRBgpA22lON14crU9ZBVxXfmaeR-I2oawLPh-8niGSEs__969kA2&t=634153289862217808
+--2017-01-24 05:32:29--  http://clerk.house.gov/images/help-search-screenshot.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 27505 (27K) [image/gif]
+Saving to: ‘images/help-search-screenshot.gif’
+
+     0K .......... .......... ......                          100% 1.97M=0.01s
+
+2017-01-24 05:32:29 (1.97 MB/s) - ‘images/help-search-screenshot.gif’ saved [27505/27505]
+
+--2017-01-24 05:32:29--  http://clerk.house.gov/images/help-screenshot.gif
+Reusing existing connection to clerk.house.gov:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 59100 (58K) [image/gif]
+Saving to: ‘images/help-screenshot.gif’
+
+     0K .......... .......... .......... .......... .......... 86% 4.00M 0s
+    50K .......                                               100% 3.13M=0.01s
+
+2017-01-24 05:32:29 (3.85 MB/s) - ‘images/help-screenshot.gif’ saved [59100/59100]
+
+--2017-01-24 05:32:29--  http://clerk.house.gov/WebResource.axd?d=hx_jbAnbSHwEgqeovuaZbukOCH1qm7Lfd63JuDqwfuyoyvqnVaBz3SADXTBPJDFn3pocUmPaWiydiZ2HXyjlRBgpA22lON14crU9ZBVxXfmaeR-I2oawLPh-8niGSEs__969kA2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 42 [image/gif]
@@ -634,39 +1729,39 @@ Saving to: ‘WebResource.axd?d=hx_jbAnbSHwEgqeovuaZbukOCH1qm7Lfd63JuDqwfuyoyvqn
 
      0K                                                       100% 5.01M=0s
 
-2017-01-24 05:28:40 (5.01 MB/s) - ‘WebResource.axd?d=hx_jbAnbSHwEgqeovuaZbukOCH1qm7Lfd63JuDqwfuyoyvqnVaBz3SADXTBPJDFn3pocUmPaWiydiZ2HXyjlRBgpA22lON14crU9ZBVxXfmaeR-I2oawLPh-8niGSEs__969kA2&t=634153289862217808’ saved [42/42]
+2017-01-24 05:32:29 (5.01 MB/s) - ‘WebResource.axd?d=hx_jbAnbSHwEgqeovuaZbukOCH1qm7Lfd63JuDqwfuyoyvqnVaBz3SADXTBPJDFn3pocUmPaWiydiZ2HXyjlRBgpA22lON14crU9ZBVxXfmaeR-I2oawLPh-8niGSEs__969kA2&t=634153289862217808’ saved [42/42]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=CaRnJqxDo4INeFkd4ZFjVRYgv2fUO4T84KRmT-mHgfuDTUGKzwdORtxroX2XFLz09x4lxCzqzOcfasEH9PhjHc8TH8wQ46mzkAwv7pz9T-IihdvFVa305n581h4p25JeMVfVgg2&t=634153289862217808
+--2017-01-24 05:32:29--  http://clerk.house.gov/WebResource.axd?d=CaRnJqxDo4INeFkd4ZFjVRYgv2fUO4T84KRmT-mHgfuDTUGKzwdORtxroX2XFLz09x4lxCzqzOcfasEH9PhjHc8TH8wQ46mzkAwv7pz9T-IihdvFVa305n581h4p25JeMVfVgg2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 298 [image/gif]
 Saving to: ‘WebResource.axd?d=CaRnJqxDo4INeFkd4ZFjVRYgv2fUO4T84KRmT-mHgfuDTUGKzwdORtxroX2XFLz09x4lxCzqzOcfasEH9PhjHc8TH8wQ46mzkAwv7pz9T-IihdvFVa305n581h4p25JeMVfVgg2&t=634153289862217808’
 
-     0K                                                       100% 17.8M=0s
+     0K                                                       100% 47.4M=0s
 
-2017-01-24 05:28:40 (17.8 MB/s) - ‘WebResource.axd?d=CaRnJqxDo4INeFkd4ZFjVRYgv2fUO4T84KRmT-mHgfuDTUGKzwdORtxroX2XFLz09x4lxCzqzOcfasEH9PhjHc8TH8wQ46mzkAwv7pz9T-IihdvFVa305n581h4p25JeMVfVgg2&t=634153289862217808’ saved [298/298]
+2017-01-24 05:32:30 (47.4 MB/s) - ‘WebResource.axd?d=CaRnJqxDo4INeFkd4ZFjVRYgv2fUO4T84KRmT-mHgfuDTUGKzwdORtxroX2XFLz09x4lxCzqzOcfasEH9PhjHc8TH8wQ46mzkAwv7pz9T-IihdvFVa305n581h4p25JeMVfVgg2&t=634153289862217808’ saved [298/298]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=1lrrWqMZvK_QqxgyfJL7AnTs5VdvZElQApLCjPmlVHMHTFEgN6ht3C4glbXQ1e5IIS7guozTVNQ9cKp4a1RjIKvf9Hk5IQGD2Qb9Mgx2PMbELo8_n0QhriyElfXiO7XljpB4lg2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=1lrrWqMZvK_QqxgyfJL7AnTs5VdvZElQApLCjPmlVHMHTFEgN6ht3C4glbXQ1e5IIS7guozTVNQ9cKp4a1RjIKvf9Hk5IQGD2Qb9Mgx2PMbELo8_n0QhriyElfXiO7XljpB4lg2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 293 [image/gif]
 Saving to: ‘WebResource.axd?d=1lrrWqMZvK_QqxgyfJL7AnTs5VdvZElQApLCjPmlVHMHTFEgN6ht3C4glbXQ1e5IIS7guozTVNQ9cKp4a1RjIKvf9Hk5IQGD2Qb9Mgx2PMbELo8_n0QhriyElfXiO7XljpB4lg2&t=634153289862217808’
 
-     0K                                                       100% 25.4M=0s
+     0K                                                       100% 18.6M=0s
 
-2017-01-24 05:28:40 (25.4 MB/s) - ‘WebResource.axd?d=1lrrWqMZvK_QqxgyfJL7AnTs5VdvZElQApLCjPmlVHMHTFEgN6ht3C4glbXQ1e5IIS7guozTVNQ9cKp4a1RjIKvf9Hk5IQGD2Qb9Mgx2PMbELo8_n0QhriyElfXiO7XljpB4lg2&t=634153289862217808’ saved [293/293]
+2017-01-24 05:32:30 (18.6 MB/s) - ‘WebResource.axd?d=1lrrWqMZvK_QqxgyfJL7AnTs5VdvZElQApLCjPmlVHMHTFEgN6ht3C4glbXQ1e5IIS7guozTVNQ9cKp4a1RjIKvf9Hk5IQGD2Qb9Mgx2PMbELo8_n0QhriyElfXiO7XljpB4lg2&t=634153289862217808’ saved [293/293]
 
---2017-01-24 05:28:40--  http://clerk.house.gov/WebResource.axd?d=1KizL_Ijmo16R2ZOJBYPXvkyftwLs9-rdpR0y6tZRUnxQUHCs5ZJuLPQk1ytaLjpSMgBy1f1Zx9W1V977OcYcuOkpNQ0mqVjRzRJy7NV7_j2IMw2nP9OFEHw8gMSlN1C74SPjQ2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=1KizL_Ijmo16R2ZOJBYPXvkyftwLs9-rdpR0y6tZRUnxQUHCs5ZJuLPQk1ytaLjpSMgBy1f1Zx9W1V977OcYcuOkpNQ0mqVjRzRJy7NV7_j2IMw2nP9OFEHw8gMSlN1C74SPjQ2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 106 [image/gif]
 Saving to: ‘WebResource.axd?d=1KizL_Ijmo16R2ZOJBYPXvkyftwLs9-rdpR0y6tZRUnxQUHCs5ZJuLPQk1ytaLjpSMgBy1f1Zx9W1V977OcYcuOkpNQ0mqVjRzRJy7NV7_j2IMw2nP9OFEHw8gMSlN1C74SPjQ2&t=634153289862217808’
 
-     0K                                                       100% 16.8M=0s
+     0K                                                       100% 12.6M=0s
 
-2017-01-24 05:28:41 (16.8 MB/s) - ‘WebResource.axd?d=1KizL_Ijmo16R2ZOJBYPXvkyftwLs9-rdpR0y6tZRUnxQUHCs5ZJuLPQk1ytaLjpSMgBy1f1Zx9W1V977OcYcuOkpNQ0mqVjRzRJy7NV7_j2IMw2nP9OFEHw8gMSlN1C74SPjQ2&t=634153289862217808’ saved [106/106]
+2017-01-24 05:32:30 (12.6 MB/s) - ‘WebResource.axd?d=1KizL_Ijmo16R2ZOJBYPXvkyftwLs9-rdpR0y6tZRUnxQUHCs5ZJuLPQk1ytaLjpSMgBy1f1Zx9W1V977OcYcuOkpNQ0mqVjRzRJy7NV7_j2IMw2nP9OFEHw8gMSlN1C74SPjQ2&t=634153289862217808’ saved [106/106]
 
---2017-01-24 05:28:41--  http://clerk.house.gov/WebResource.axd?d=kC0uXCgUkywBpURYKshHEGM8E2nLamohKZ-lhucGxkZ2XJeBzCTN5wjzDeFgYYaJB_mRfAC4YBwbwRSnAcGe86D3nWz192COqNpS4GDwOSn-af02jK4G1pEpEUxPh06Sd5DAww2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=kC0uXCgUkywBpURYKshHEGM8E2nLamohKZ-lhucGxkZ2XJeBzCTN5wjzDeFgYYaJB_mRfAC4YBwbwRSnAcGe86D3nWz192COqNpS4GDwOSn-af02jK4G1pEpEUxPh06Sd5DAww2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 296 [image/gif]
@@ -674,19 +1769,19 @@ Saving to: ‘WebResource.axd?d=kC0uXCgUkywBpURYKshHEGM8E2nLamohKZ-lhucGxkZ2XJeB
 
      0K                                                       100% 35.3M=0s
 
-2017-01-24 05:28:41 (35.3 MB/s) - ‘WebResource.axd?d=kC0uXCgUkywBpURYKshHEGM8E2nLamohKZ-lhucGxkZ2XJeBzCTN5wjzDeFgYYaJB_mRfAC4YBwbwRSnAcGe86D3nWz192COqNpS4GDwOSn-af02jK4G1pEpEUxPh06Sd5DAww2&t=634153289862217808’ saved [296/296]
+2017-01-24 05:32:30 (35.3 MB/s) - ‘WebResource.axd?d=kC0uXCgUkywBpURYKshHEGM8E2nLamohKZ-lhucGxkZ2XJeBzCTN5wjzDeFgYYaJB_mRfAC4YBwbwRSnAcGe86D3nWz192COqNpS4GDwOSn-af02jK4G1pEpEUxPh06Sd5DAww2&t=634153289862217808’ saved [296/296]
 
---2017-01-24 05:28:41--  http://clerk.house.gov/WebResource.axd?d=VqB_GeqWSZnxo3mwfMy1kEoL8AmT2KOYuMihkm9DmNIPQCmQ_bgYEz-k8MjXuzQBfxftR_tnpuJAQYLLSqMTHQI1MPHRijIeWMy9P218JVOrChvcMAHAPccgiidQs4HLhe8UGw2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=VqB_GeqWSZnxo3mwfMy1kEoL8AmT2KOYuMihkm9DmNIPQCmQ_bgYEz-k8MjXuzQBfxftR_tnpuJAQYLLSqMTHQI1MPHRijIeWMy9P218JVOrChvcMAHAPccgiidQs4HLhe8UGw2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 292 [image/gif]
 Saving to: ‘WebResource.axd?d=VqB_GeqWSZnxo3mwfMy1kEoL8AmT2KOYuMihkm9DmNIPQCmQ_bgYEz-k8MjXuzQBfxftR_tnpuJAQYLLSqMTHQI1MPHRijIeWMy9P218JVOrChvcMAHAPccgiidQs4HLhe8UGw2&t=634153289862217808’
 
-     0K                                                       100% 34.8M=0s
+     0K                                                       100% 39.8M=0s
 
-2017-01-24 05:28:41 (34.8 MB/s) - ‘WebResource.axd?d=VqB_GeqWSZnxo3mwfMy1kEoL8AmT2KOYuMihkm9DmNIPQCmQ_bgYEz-k8MjXuzQBfxftR_tnpuJAQYLLSqMTHQI1MPHRijIeWMy9P218JVOrChvcMAHAPccgiidQs4HLhe8UGw2&t=634153289862217808’ saved [292/292]
+2017-01-24 05:32:30 (39.8 MB/s) - ‘WebResource.axd?d=VqB_GeqWSZnxo3mwfMy1kEoL8AmT2KOYuMihkm9DmNIPQCmQ_bgYEz-k8MjXuzQBfxftR_tnpuJAQYLLSqMTHQI1MPHRijIeWMy9P218JVOrChvcMAHAPccgiidQs4HLhe8UGw2&t=634153289862217808’ saved [292/292]
 
---2017-01-24 05:28:41--  http://clerk.house.gov/WebResource.axd?d=FDfQX-cBeg7EXlShu0OOwQii2jmlX5goKKPoEe_jm6gHDJbzQkTt9WDlZ96JihIyWBe5MD6NU6QnlzeONy4gFb0TmkkfiTMsFKWnEwZZZmsyZwAikbzSXveGxKS_pZSqoEUJKw2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=FDfQX-cBeg7EXlShu0OOwQii2jmlX5goKKPoEe_jm6gHDJbzQkTt9WDlZ96JihIyWBe5MD6NU6QnlzeONy4gFb0TmkkfiTMsFKWnEwZZZmsyZwAikbzSXveGxKS_pZSqoEUJKw2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 252 [image/gif]
@@ -694,29 +1789,29 @@ Saving to: ‘WebResource.axd?d=FDfQX-cBeg7EXlShu0OOwQii2jmlX5goKKPoEe_jm6gHDJbz
 
      0K                                                       100% 30.0M=0s
 
-2017-01-24 05:28:41 (30.0 MB/s) - ‘WebResource.axd?d=FDfQX-cBeg7EXlShu0OOwQii2jmlX5goKKPoEe_jm6gHDJbzQkTt9WDlZ96JihIyWBe5MD6NU6QnlzeONy4gFb0TmkkfiTMsFKWnEwZZZmsyZwAikbzSXveGxKS_pZSqoEUJKw2&t=634153289862217808’ saved [252/252]
+2017-01-24 05:32:30 (30.0 MB/s) - ‘WebResource.axd?d=FDfQX-cBeg7EXlShu0OOwQii2jmlX5goKKPoEe_jm6gHDJbzQkTt9WDlZ96JihIyWBe5MD6NU6QnlzeONy4gFb0TmkkfiTMsFKWnEwZZZmsyZwAikbzSXveGxKS_pZSqoEUJKw2&t=634153289862217808’ saved [252/252]
 
---2017-01-24 05:28:41--  http://clerk.house.gov/WebResource.axd?d=u-8G_hLwIUCCgLe8Ryb2EBUbc-bgi3JTuD85NgIhAIdwaHvx83Rw5X4M9CFtqrBQ95Vzq2T7OJFm_jpX6w6fZ3JntxbZhnsuKi6Yscb5VOvuHcgySscDt6z6C4ueM5R5nntDWg2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=u-8G_hLwIUCCgLe8Ryb2EBUbc-bgi3JTuD85NgIhAIdwaHvx83Rw5X4M9CFtqrBQ95Vzq2T7OJFm_jpX6w6fZ3JntxbZhnsuKi6Yscb5VOvuHcgySscDt6z6C4ueM5R5nntDWg2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 108 [image/gif]
 Saving to: ‘WebResource.axd?d=u-8G_hLwIUCCgLe8Ryb2EBUbc-bgi3JTuD85NgIhAIdwaHvx83Rw5X4M9CFtqrBQ95Vzq2T7OJFm_jpX6w6fZ3JntxbZhnsuKi6Yscb5VOvuHcgySscDt6z6C4ueM5R5nntDWg2&t=634153289862217808’
 
-     0K                                                       100% 12.9M=0s
+     0K                                                       100% 14.7M=0s
 
-2017-01-24 05:28:41 (12.9 MB/s) - ‘WebResource.axd?d=u-8G_hLwIUCCgLe8Ryb2EBUbc-bgi3JTuD85NgIhAIdwaHvx83Rw5X4M9CFtqrBQ95Vzq2T7OJFm_jpX6w6fZ3JntxbZhnsuKi6Yscb5VOvuHcgySscDt6z6C4ueM5R5nntDWg2&t=634153289862217808’ saved [108/108]
+2017-01-24 05:32:30 (14.7 MB/s) - ‘WebResource.axd?d=u-8G_hLwIUCCgLe8Ryb2EBUbc-bgi3JTuD85NgIhAIdwaHvx83Rw5X4M9CFtqrBQ95Vzq2T7OJFm_jpX6w6fZ3JntxbZhnsuKi6Yscb5VOvuHcgySscDt6z6C4ueM5R5nntDWg2&t=634153289862217808’ saved [108/108]
 
---2017-01-24 05:28:41--  http://clerk.house.gov/WebResource.axd?d=PglItOGQRRg6clirVi04x-rj86JZgmchHOdLd55yISKkDw3IrDbfK1dGvTFipPBf13gckiQ2APPmPpa1WnEQ0geF8u5oTBKIjdO2BaVqy7UpNUhG1W6I7KDx686_dEal8gONfw2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=PglItOGQRRg6clirVi04x-rj86JZgmchHOdLd55yISKkDw3IrDbfK1dGvTFipPBf13gckiQ2APPmPpa1WnEQ0geF8u5oTBKIjdO2BaVqy7UpNUhG1W6I7KDx686_dEal8gONfw2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 102 [image/gif]
 Saving to: ‘WebResource.axd?d=PglItOGQRRg6clirVi04x-rj86JZgmchHOdLd55yISKkDw3IrDbfK1dGvTFipPBf13gckiQ2APPmPpa1WnEQ0geF8u5oTBKIjdO2BaVqy7UpNUhG1W6I7KDx686_dEal8gONfw2&t=634153289862217808’
 
-     0K                                                       100% 10.8M=0s
+     0K                                                       100% 8.84M=0s
 
-2017-01-24 05:28:41 (10.8 MB/s) - ‘WebResource.axd?d=PglItOGQRRg6clirVi04x-rj86JZgmchHOdLd55yISKkDw3IrDbfK1dGvTFipPBf13gckiQ2APPmPpa1WnEQ0geF8u5oTBKIjdO2BaVqy7UpNUhG1W6I7KDx686_dEal8gONfw2&t=634153289862217808’ saved [102/102]
+2017-01-24 05:32:30 (8.84 MB/s) - ‘WebResource.axd?d=PglItOGQRRg6clirVi04x-rj86JZgmchHOdLd55yISKkDw3IrDbfK1dGvTFipPBf13gckiQ2APPmPpa1WnEQ0geF8u5oTBKIjdO2BaVqy7UpNUhG1W6I7KDx686_dEal8gONfw2&t=634153289862217808’ saved [102/102]
 
---2017-01-24 05:28:41--  http://clerk.house.gov/WebResource.axd?d=aNJ5fPy7wk3HiWOw89Y7-pVAHr7k0AZLu0LW8JGnXFgQjjEZFOWEWnCwGbv4CIMRy0fUvZX5cJr-KzWh4rfilu7WhaXxOGGRGsp-Vx-sN3thmPK-voaCx4mhFLa625XQFf7YvA2&t=634153289862217808
+--2017-01-24 05:32:30--  http://clerk.house.gov/WebResource.axd?d=aNJ5fPy7wk3HiWOw89Y7-pVAHr7k0AZLu0LW8JGnXFgQjjEZFOWEWnCwGbv4CIMRy0fUvZX5cJr-KzWh4rfilu7WhaXxOGGRGsp-Vx-sN3thmPK-voaCx4mhFLa625XQFf7YvA2&t=634153289862217808
 Reusing existing connection to clerk.house.gov:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 52 [image/gif]
@@ -724,23 +1819,79 @@ Saving to: ‘WebResource.axd?d=aNJ5fPy7wk3HiWOw89Y7-pVAHr7k0AZLu0LW8JGnXFgQjjEZ
 
      0K                                                       100% 6.20M=0s
 
-2017-01-24 05:28:41 (6.20 MB/s) - ‘WebResource.axd?d=aNJ5fPy7wk3HiWOw89Y7-pVAHr7k0AZLu0LW8JGnXFgQjjEZFOWEWnCwGbv4CIMRy0fUvZX5cJr-KzWh4rfilu7WhaXxOGGRGsp-Vx-sN3thmPK-voaCx4mhFLa625XQFf7YvA2&t=634153289862217808’ saved [52/52]
+2017-01-24 05:32:30 (6.20 MB/s) - ‘WebResource.axd?d=aNJ5fPy7wk3HiWOw89Y7-pVAHr7k0AZLu0LW8JGnXFgQjjEZFOWEWnCwGbv4CIMRy0fUvZX5cJr-KzWh4rfilu7WhaXxOGGRGsp-Vx-sN3thmPK-voaCx4mhFLa625XQFf7YvA2&t=634153289862217808’ saved [52/52]
 
-FINISHED --2017-01-24 05:28:41--
-Total wall clock time: 10s
-Downloaded: 64 files, 4.1M in 2.7s (1.55 MB/s)
-Converting links in public_disc/giftTravel.aspx.html... 25-20
-Converting links in public_disc/foreign/index.aspx.html... 18-19
-Converting links in public_disc/financial.aspx.html... 30-19
-Converting links in public_disc/ethics.aspx.html... 16-19
-Converting links in public_disc/index.aspx.html... 24-20
-Converting links in public_disc/index.html... 24-20
-Converting links in public_disc/employment.aspx.html... 19-19
-Converting links in public_disc/giftTravel-search.aspx.html... 19-19
-Converting links in public_disc/legal.aspx.html... 16-19
-Converting links in public_disc/franked.aspx.html... 16-20
-Converting links in public_disc/financial-search.aspx.html... 19-19
-Converting links in public_disc/postemployment.aspx.html... 19-19
+FINISHED --2017-01-24 05:32:30--
+Total wall clock time: 28s
+Downloaded: 169 files, 8.5M in 7.3s (1.17 MB/s)
+Converting links in member_info/election.aspx.html... 29-6
+Converting links in committee_info/index.aspx?comcode=SY00.html... 25-7
+Converting links in legislative/legvotes.aspx.html... 27-7
+Converting links in committee_info/index.aspx?comcode=ED00.html... 25-8
+Converting links in legislative/legprocess.aspx.html... 28-6
+Converting links in committee_info/index.aspx?comcode=HA00.html... 25-14
+Converting links in public_disc/financial.aspx.html... 44-6
+Converting links in committee_info/index.aspx?comcode=RU00.html... 25-19
+Converting links in new.aspx.html... 22-6
+Converting links in member_info/index.aspx.html... 41-6
+Converting links in about/duties.aspx.html... 30-6
+Converting links in legislative/memorials.aspx.html... 27-133
+Converting links in public_disc/giftTravel.aspx.html... 40-6
+Converting links in public_disc/ethics.aspx.html... 30-6
+Converting links in public_disc/postemployment.aspx.html... 33-6
+Converting links in committee_info/index.aspx?comcode=AP00.html... 25-37
+Converting links in about/press/index.aspx.html... 30-19
+Converting links in legislative/index.html... 41-6
+Converting links in member_info/index.html... 41-6
+Converting links in committee_info/index.aspx?comcode=VR00.html... 25-7
+Converting links in sitemap.aspx.html... 48-6
+Converting links in committee_info/index.aspx?comcode=AS00.html... 25-41
+Converting links in public_disc/index.aspx.html... 39-6
+Converting links in about/index.aspx.html... 30-6
+Converting links in public_disc/financial-search.aspx.html... 33-6
+Converting links in committee_info/index.html... 48-6
+Converting links in member_info/leadership.aspx.html... 28-6
+Converting links in public_disc/legal.aspx.html... 30-6
+Converting links in help.aspx.html... 25-6
+Converting links in public_disc/foreign/index.aspx.html... 32-6
+Converting links in committee_info/index.aspx?comcode=JU00.html... 25-7
+Converting links in committee_info/index.aspx?comcode=SM00.html... 25-8
+Converting links in committee_info/index.aspx?comcode=PW00.html... 25-7
+Converting links in committee_info/index.aspx?comcode=IG00.html... 25-25
+Converting links in legislative/legfaq.aspx.html... 47-8
+Converting links in member_info/vacancies.aspx.html... 28-6
+Converting links in member_info/memberfaq.aspx.html... 66-8
+Converting links in member_info/ttd.aspx.html... 28-6
+Converting links in public_disc/franked.aspx.html... 31-6
+Converting links in about/history.aspx.html... 55-7
+Converting links in about/offices.aspx.html... 30-10
+Converting links in committee_info/commfaq.aspx.html... 35-8
+Converting links in committee_info/oal.aspx.html... 24-6
+Converting links in about/house_chamber.aspx.html... 31-10
+Converting links in committee_info/index.aspx?comcode=HM00.html... 25-8
+Converting links in member_info/cong.aspx.html... 30-6
+Converting links in committee_info/index.aspx?comcode=BA00.html... 25-41
+Converting links in public_disc/employment.aspx.html... 33-6
+Converting links in legislative/index.aspx.html... 41-6
+Converting links in committee_info/index.aspx?comcode=AG00.html... 25-7
+Converting links in committee_info/index.aspx?comcode=IF00.html... 25-38
+Converting links in floorsummary/help.aspx.html... 29-7
+Converting links in committee_info/index.aspx?comcode=WM00.html... 25-31
+Converting links in committee_info/index.aspx?comcode=II00.html... 25-8
+Converting links in member_info/olm112.aspx.html... 28-6
+Converting links in index.aspx.html... 48-6
+Converting links in security-privacy.aspx.html... 27-6
+Converting links in committee_info/index.aspx?comcode=BU00.html... 25-29
+Converting links in public_disc/index.html... 39-6
+Converting links in public_disc/giftTravel-search.aspx.html... 33-6
+Converting links in about/index.html... 30-6
+Converting links in committee_info/index.aspx?comcode=SO00.html... 25-12
+Converting links in legislative/housedoc.aspx.html... 28-9
+Converting links in member_info/olmbr.aspx.html... 28-6
+Converting links in committee_info/index.aspx.html... 48-6
+Converting links in floorsummary/floor.aspx.html... 45-13
+Converting links in committee_info/index.aspx?comcode=FA00.html... 25-8
+Converting links in committee_info/index.aspx?comcode=GO00.html... 25-8
 Converting links in WebResource.axd?d=zF-ZeadDpDNyUUb7yiOOlwLh5jFeRw9qceW6IeyLvxeWA-Oxl9w0Xud-KnoFq0n8N_onMQIuVeWeqArE5eqW4TASrokCeKiIuihvQavHSfzi5pWxmo_vNRO_w59-nvLl2HoQlg2&t=634153289862217808.css... 10-0
 Converting links in WebResource.axd?d=09UBlBFOjRYUoj4QycQUfj1hx_BPxdCXNFmOEn0O5qUXMC_4DFg6ojy-7Qh2QLVRa6crlSYZEK5sIuoZJm1HSvXqAgoOciu4wIDPxw9GcFBZOFZbS-TLX-UvUhRA9vr1x2ohZPwtd7arW5owQGHJLOjCxKM1&t=634153289862217808.css... 2-0
-Converted links in 14 files in 0.06 seconds.
+Converted links in 70 files in 0.2 seconds.
