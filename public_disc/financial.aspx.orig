@@ -1,0 +1,213 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Office of the Clerk of the U.S. House of Representatives
+         - Financial Disclosure Report
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="keywords" content="office of the clerk,clerk,clerk of the house,u.s. house of representatives,congress,member information,committee information, public disclosure, filing, foreign travel reports" /><meta name="description" content="Obtain documents, public disclosure forms, historical data and Member and Committee information for the U.S. House of Representatives" /><meta name="robots" content="index, follow" /><meta name="rating" content="GENERAL" /><meta name="language" content="en" /><meta name="resource-type" content="document" /><meta name="distribution" content="GLOBAL" /><meta name="classification" content="Legislative Federal Government" /><meta name="author" content="Office of the Clerk, U.S. House of Representatives" /><meta name="govType" content="federal" /><meta name="revisit-after" content="15 Days" /><meta name="resource-type" content="document" /><meta name="doc-class" content="Completed" />
+                <link rel="shortcut icon" href="/favicon.ico" /><link rel="stylesheet" type="text/css" media="screen" href="/css/sitewide_styles.css" /><link rel="stylesheet" type="text/css" media="print" href="/css/print.css" /><link rel='stylesheet' type='text/css' media='screen' href='/css/pd.css' />
+    <script src="/js/jquery126.js" type="text/JavaScript"></script>
+    
+     <script src="/js/sitewide_functions.js" type="text/JavaScript"></script>
+     <script src="/js/jquery.tablesorter.min.js" type="text/JavaScript"></script>
+
+</head>
+<body>
+    <a href="#contentStart" class="skipToContent">Skip to Content</a>
+    <form name="aspnetForm" method="post" action="./financial.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="lOmPCnXWDviE8Jhm0onV/wb7ajDYlSAI993676DxDupUzJZGwwoKMlfsQWEeeZ/51hXtm4inx2pviYENWMwd4CX7031meRvb57R+1mLb0VZXmARfE1guk57r+PtmToQY9UM91+nu+2aJC/E7rv6bYQBcBEqT4wvW1veZbnxohsBOSXXT6UWT4bajbB75cU46pqQGHUfnt9Q1T1ppcBpmEDiwbpmqXHURcE0SKapdrvkCL711HEkJgJ0FSlce0u29JJ3AILtADot81F5KehIf/DKCKkH6FPxJc6kF0ypdBV5DLS71" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07795E2C" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/yZaM1r123DW87Zm3lkVArQcWub6w+cB4BxuZWTjfGunkTdZOfIhxMAHGAsOUWkx/QhEi3PQimwsLaNwZ7S0+i4T4Blk95RngumYSdG3ExshCrRpE/x64H7UcFscWKd8VixNtnMaRKqCTzwN3tvmwlaZaU0=" />
+    <div id="container">
+        <div id="outer">
+            <div id="main">
+                <div id="header">
+                    <h1>
+                        <a href="/index.aspx" title="Office of the Clerk, United States House of Representatives" class="headerLogo">Office of the Clerk, United States House of Representatives</a>
+                    </h1>
+                    <div id="headerform">
+                        <div id="ctl00_Panel1">
+	
+                            <input name="ctl00$txbSearchBox" type="text" id="ctl00_txbSearchBox" title="Search Clerk.House.Gov" />
+                            <input type="submit" name="ctl00$btnSearchSubmit" value="Search" id="ctl00_btnSearchSubmit" class="mainsearch_btn" />
+                        
+</div>
+                        
+                    </div>
+                    <p class="sessionMarker">
+                        115th
+                        Congress,
+                        1st
+                        Session</p>
+                </div>
+                <div id="navigation">
+                    <ul>
+                        <li class=""><a href="/about/index.aspx" onmouseover="setFeature('clerk');" id="navClerk">About the Office of the Clerk</a></li>
+                        <li class=""><a href="/member_info/index.aspx" onmouseover="setFeature('mem');" id="navMember">Member Information</a></li>
+                        <li class=""><a href="/committee_info/index.aspx" onmouseover="setFeature('comm');" id="navCommittees">Committee Information</a></li>
+                        <li class=""><a href="/legislative/index.aspx" onmouseover="setFeature('legis');" id="navLegis">Legislative Activities</a></li>
+                        <li class="navActive"><a href="/public_disc/index.aspx" onmouseover="setFeature('pd');" id="navPubDisc">Public Disclosure</a></li>
+                        <li><a href="http://library.clerk.house.gov/index.aspx"
+                            onmouseover="setFeature('library');" id="navLibrary">House Library</a></li>
+                    </ul>
+                    <ul id="subnav">
+                
+                        <li class="navActive"><a href="/public_disc/financial.aspx" id="subnavFinancial">Financial Disclosure Reports</a></li>
+                        <li class=""><a href="/public_disc/foreign/index.aspx" id="subnavForeign">Foreign Travel Reports and Expenditures</a></li>
+                        <li class=""><a href="/public_disc/franked.aspx" id="subnavFranked">Franked Materials (Mass Mailings)</a></li>
+                        <li class=""><a href="/public_disc/giftTravel.aspx" id="subnavTravel">Gift and Travel Filings</a></li>
+                        <li class=""><a href="/public_disc/legal.aspx" id="subnavLegal">Legal Expense Fund Disclosures</a></li>
+                        <li class=""><a href="/public_disc/ethics.aspx" id="subnavEthics">Office of Congressional Ethics</a></li>
+                        <li class=""><a href="/public_disc/postemployment.aspx" id="subnavPostemp">Post Employment Notifications</a></li>
+                
+                    </ul>
+
+                </div>
+                
+                <a id="contentStart"></a>
+                
+    <div id="page_content">
+        <h2>
+            <img src="../images/headers/p_finance.jpg" alt="Financial Disclosure Reports" width="713"
+                height="65" /></h2>
+                <div id="intro_content"></div>
+        <div id="primary_content">
+            <h3>
+                What are Financial Disclosure Reports?</h3>
+            <p>
+                Financial Disclosure Reports include information about the source, type, amount, or value of the incomes of Members, officers, certain employees of the U.S. House of Representatives and related offices, and candidates for the U.S. House of Representatives. 
+            </p>
+            <p>
+                These reports are filed with the Clerk of the House as required by Title I of the Ethics in Government Act of 1978, as amended. 5 U.S.C. app. 4 &sect; 101 et seq. 
+            </p>
+            <p>
+               Section 8 of the STOCK Act of 2012, as amended, requires the Clerk of the House of Representatives to provide online public access to financial disclosure reports filed by Members of Congress and candidates for Congress.
+            </p>
+            <h4>Download Financial Disclosure Reports by Year</h4>
+                <ul class="yearList">
+                    <li><a href="/public_disc/financial-pdfs/2008FD.ZIP" target="_blank">2008</a></li>
+                    <li><a href="/public_disc/financial-pdfs/2009FD.ZIP" target="_blank">2009</a></li>
+                    <li><a href="/public_disc/financial-pdfs/2010FD.ZIP" target="_blank">2010</a></li>
+                    <li><a href="/public_disc/financial-pdfs/2011FD.ZIP" target="_blank">2011</a></li>
+                    <li><a href="/public_disc/financial-pdfs/2012FD.ZIP" target="_blank">2012</a></li>
+                    <li><a href="/public_disc/financial-pdfs/2013FD.ZIP" target="_blank">2013</a></li>
+					<li><a href="/public_disc/financial-pdfs/2014FD.ZIP" target="_blank">2014</a></li>
+					<li><a href="/public_disc/financial-pdfs/2015FD.ZIP" target="_blank">2015</a></li>
+					<li><a href="/public_disc/financial-pdfs/2016FD.ZIP" target="_blank">2016</a></li>
+                </ul>
+
+                <h3>
+                For Members and Staff</h3>
+            <p>
+                Obtain instruction booklet, forms and instructions for filing:
+                <ul style="margin-top: 2px;">
+                <li><a href="https://fd.house.gov/">Financial Disclosure Online Reporting Application</a></li>
+             <!--  <li>Financial Disclosure Form A [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/87-162_House.pdf" target="_blank">Form</a> | <a href="/public_disc/moreinstr.aspx">Software</a> | <a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202012%20Form%20A%20Instruction%20Book.pdf" target="_blank">Instructions</a>]</li>  --> 
+            <li><a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202015%20Instruction%20Guide%20for%20FD%20Statements%20and%20Periodic%20Transaction%20Reports%20%281%20of%202%29_1.pdf" target="_blank">CY 2015 Instruction Guide for Financial Disclosure Statements and Periodic Transaction Reports - Instructions (1 of 3)</a></li>
+				 <li><a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202015%20Samples.pdf" target="_blank">CY 2015 Instruction Guide for Financial Disclosure Statements and Periodic Transaction Reports - Samples (2 of 3)</a></li>
+				 <li><a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202015%20Appendices.pdf" target="_blank">CY 2015 Instruction Guide for Financial Disclosure Statements and Periodic Transaction Reports - Appendices (3 of 3)</a></li>
+                <li>Financial Disclosure Form A [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/98-469%20HOUSE%20without%20blanks_.pdf" target="_blank">Form</a>]</li>
+                <li>Financial Disclosure Form B [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/98-470%20HOUSE%20without%20blanks_.pdf" target="_blank">Form</a>]</li>
+                <li>Financial Disclosure Extension [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/Extension%20forms%20for%20Members%20Officers%20and%20Employees_0.pdf" target="_blank">Form</a>]</li>
+                <li>Gift Waiver [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/FD%20waiver%20request%20form%20-%20114th-Jan%202015_0.pdf" target="_blank">Form</a>]</li>
+                <li>New Employee Reporting Exemption [<a href="/public_disc/FD_NewEmployeeExemption.pdf" target="_blank">Form</a>]</li>
+                <li>Periodic Transaction Report [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/Updated%2093-812%20%284-1-2015%29%29No%20CropsCX_0%202.pdf" target="_blank">Form</a>]</li>
+                 <li>Principal Assistant Designation  [<a href="/public_disc/FD_PrincipalDesignation.pdf" target="_blank">Form</a>]</li>
+			   <li>Termination Exemption [<a href="/public_disc/FD_TerminationExemption.pdf" target="_blank">Form</a>]</li>
+                </ul></p>
+
+                
+                <h3>
+                For Congressional Candidates</h3>
+            <p>
+                Obtain instruction booklet, forms for filing:
+                <ul style="margin-top: 2px;">
+               <!-- <li>Financial Disclosure Form B [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/78-995_FormB.pdf" target="_blank">Form</a> | <a href="http://ethics.house.gov/sites/ethics.house.gov/files/Form%20B%20Instruction%20Book.pdf" target="_blank">Instructions</a>]</li> -->
+                <li><a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202015%20Instruction%20Guide%20for%20FD%20Statements%20and%20Periodic%20Transaction%20Reports%20%281%20of%202%29_1.pdf" target="_blank">CY 2015 Instruction Guide for Financial Disclosure Statements and Periodic Transaction Reports - Instructions (1 of 3)</a></li>
+				 <li><a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202015%20Samples.pdf" target="_blank">CY 2015 Instruction Guide for Financial Disclosure Statements and Periodic Transaction Reports - Samples (2 of 3)</a></li>
+				 <li><a href="http://ethics.house.gov/sites/ethics.house.gov/files/CY%202015%20Appendices.pdf" target="_blank">CY 2015 Instruction Guide for Financial Disclosure Statements and Periodic Transaction Reports - Appendices (3 of 3)</a></li>
+                  <li>Financial Disclosure Form B [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/98-470%20HOUSE%20without%20blanks_.pdf" target="_blank">Form</a>]</li>
+                <li>Financial Disclosure Extension for Candidates [<a href="http://ethics.house.gov/sites/ethics.house.gov/files/Extension%20forms%20for%20Candidates.pdf" target="_blank">Form</a>]</li>
+				<li>Withdraw/Under $5,000 Threshold Declaration [<a href="/public_disc/FD_CandidateForm.pdf" target="_blank">Form</a>]</li>
+                </ul></p> 
+
+        </div>
+        <div id="secondary_content">
+            <h4>
+                Obtain Documents</h4>
+            <p>
+                Public disclosure documents filed with the Clerk are available from:</p>
+            <div class="contact_box">
+                <p>
+                    Legislative Resource Center<br />
+                    135 Cannon House Office Building<br />
+                    Washington DC, 20515-6612<br />
+                    Phone: (202) 226-5200<br />
+                    Office Hours: 9:00 am - 6:00 pm</p>
+            </div>
+
+         
+        <p>
+                <!--<a class="searchButton" onclick="alert('It is unlawful to use the information contained in these Financial Disclosure Statements for (A) any unlawful purpose, (B) any commercial purpose, other than by news and communications media for dissemination to the general public, (C) determining or establishing the credit rating of any individual, or (D) use, directly or indirectly, in the solicitation of money for any political, charitable, or other purpose. See 5 U.S.C. app. 4, &sect;&nbsp;105(c)(1),(2).');" href="/public_disc/financial-search.aspx"><strong>Search Financial <br />Disclosure Reports</strong></a> -->
+                <a class="searchButton" href="/public_disc/financial-search.aspx"><strong>Search Financial <br />Disclosure Reports</strong></a>
+            
+            </p>
+            
+        </div>
+       <hr />
+    </div>
+
+            </div>
+            <div id="footer">
+                <div id="breadcrumb">
+                    <a href="http://clerk.house.gov/index.aspx">Home</a>&nbsp;<img src="/images/bcrumbbullet.gif" border="0" />&nbsp;<a href="/public_disc/index.aspx">Public Disclosure</a>&nbsp;<img src="/images/bcrumbbullet.gif" border="0" />&nbsp; - Financial Disclosure Report
+                </div>
+                <ul>
+                    
+                    <li><a href="/security-privacy.aspx" id="footPrivacy">Security &amp; Privacy</a></li>
+                    <li><a href="/help.aspx" id="footHelp">Help</a></li>
+                    <li><a href="/sitemap.aspx" id="footSiteMap">Site Map</a></li>
+                    <li><a href="/new.aspx" id="footNew">New</a></li>
+                </ul>
+            </div>
+            <div id="f-textlinks">
+                <ul>
+                    <li><a href="/about/">About the Clerk's Office</a> | </li>
+                    <li><a href="/member_info/">Member Information</a> |</li>
+                    <li><a href="/committee_info/">Committee Information</a> |</li>
+                    <li><a href="/legislative/">Legislative Activities</a> |</li>
+                    <li><a href="/public_disc/">Public Disclosure</a> |</li>
+                    <li><a href="http://library.clerk.house.gov/">House Library</a></li>
+                </ul>
+            </div>
+            <div id="bottom">
+                Office of the Clerk - U.S. Capitol, Room H154, Washington, DC 20515-6601 | (202)
+                225-7000<br />
+                <br />
+                For general inquiries: <a style="color: #fff;" href="mailto:info.clerkweb@mail.house.gov">
+                    info.clerkweb@mail.house.gov</a><br />
+                For general technical support: <a style="color: #fff;" href="mailto:techsupport.clerkweb@mail.house.gov">
+                    techsupport.clerkweb@mail.house.gov</a><br />
+                For HouseLive support: <a style="color: #fff;" href="mailto:houselive@mail.house.gov">
+                    houselive@mail.house.gov</a>
+                             </div>             
+             <script>
+             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+              ga('create', 'UA-9875785-1', 'auto');
+              ga('send', 'pageview');
+              </script>
+        </div>
+    </div>
+    </form>
+   
+    <form method="get" name="congressBill" action = "https://congress.gov/search" target="_blank">
+     <input name="q" value="" type="hidden" />
+    </form>
+    
+</body>
+</html>

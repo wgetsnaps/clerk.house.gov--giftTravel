@@ -1,0 +1,16 @@
+#
+#   No robots allowed in the following directories !
+#
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /includes
+Disallow: /clerk
+Disallow: /css
+Disallow: /Pdfpage
+Disallow: /xml-content
+Disallow: /widgets
+Disallow: /floorproceedings
+Disallow: /evs
+Disallow: /foreign
+Disallow: /js
+Disallow: /labels
