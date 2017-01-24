@@ -37,6 +37,7 @@ Original: http://clerk.house.gov/GTImages/MT/2010/500004903.pdf
 
 ~~~sh
 wget --mirror \
+  --page-requisites \
   --adjust-extension \
   --backup-converted  \
   --convert-links \
